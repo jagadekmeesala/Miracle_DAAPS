@@ -10,3 +10,4 @@
 - HR has explained the hierarchy to us.
 - I have worked on building schema in My SQL (Organisation schema)
 - I have started to perform operations on the tables using SQL queries.
+- I have also revised about the 5 types of commands in SQL.
