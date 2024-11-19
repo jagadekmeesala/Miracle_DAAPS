@@ -12,7 +12,7 @@
 - I have started to perform operations on the tables using SQL queries.
 - I have also revised about the 5 types of commands in SQL.
 
-### Day-2 - 19th November, 2024 - Tuesday - 2pm to 11pm
+### Day-2 - 19th November, 2024 - Tuesday - 2pm to 11.30pm
 DAAPS Practice
 - Designed a schema of an organisation
 - Solved 30+ queries on joins, functions and other important concepts on the schema that I have designed.
