@@ -25,4 +25,22 @@ DAAPS Practice
 ### Day-3 - 20th November, 2024 - Wednesday - 2pm to 11.30pm
 What I achieved today
 - I have solved all the queries that were assigned to me as a part of the practice task.
-- I have researched and implemented the industry standards for querying using SQL
+- I have researched and implemented the industry standards for querying using SQL.
+- Solved few scenario based problems on Leetcode.
+- Started to research on "Logistics" domain to build a dataset.
+- Researched about possibilities to create dataset using Python.
+
+What I am planning to achieve tomorrow
+- Start designing python script to build a dataset of logistics domain.
+- Researching about "how to write python script to insert data into database".
+- Establishing relations for the data inserted.
+- Insert vast data into dataset using script.
+- Research on What can be the possibilities in the logistics domain that can be stored in a database.
+
+Blockers
+None
+
+Use Case/Business Knowledge acquired
+- Industry standards for writing queries in SQL.
+- Logistics related knowledge.
+- Python knowledge.
