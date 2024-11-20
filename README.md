@@ -21,3 +21,8 @@ DAAPS Practice
 - Solved half of the queries from iTunes dataset.
 - Working on CTE(With operator)
 - Started to revise and solve scenario based queries in PL/SQL.
+
+### Day-3 - 20th November, 2024 - Wednesday - 2pm to 11.30pm
+What I achieved today
+- I have solved all the queries that were assigned to me as a part of the practice task.
+- I have researched and implemented the industry standards for querying using SQL
