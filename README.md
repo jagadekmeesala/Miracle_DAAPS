@@ -44,3 +44,34 @@ Use Case/Business Knowledge acquired
 - Industry standards for writing queries in SQL.
 - Logistics related knowledge.
 - Python knowledge.
+
+### Day-4 - 21st November, 2024 - Thursday - 2pm to 11pm
+What I achieved today
+- Researched about logistics domain.
+- Create a tracker of what all are the sub parts of logistics and supply chain business.
+- Noted down the tables that are there in the logistics and supply chain system.
+- Finalised the attributes of each of the table
+- Solved a few SQL scenario based problems on Leetcode.
+
+What I am planning to achieve tomorrow
+- Write a python script locally to connect MySQL and Python code.
+- Create data schema and then insert data to maintain relations.
+- Insert records that are meaningful and helpful for the end user.
+- Solve few more problems and scenario based queries on competitive platforms to sharpen my SQL skills.
+- Build and maintain the database well by following normalisation.
+
+Blockers
+Issue in integration of Python and MySQL
+
+To Overcome
+I have planned to do the task on my local system(Currently I am using google colab) which will be a bit easier to track the errors and resolve them.
+
+Use Case/Business Knowledge acquired
+- Logistics and Supply chain.
+- Logistics company functioning and how it differs with Supply chain.
+- Python integration with MySQL.
+
+ghghjjyutbcwec
+
+
+## Week-2 / 27
