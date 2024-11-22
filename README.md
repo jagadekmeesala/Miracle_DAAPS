@@ -71,7 +71,26 @@ Use Case/Business Knowledge acquired
 - Logistics company functioning and how it differs with Supply chain.
 - Python integration with MySQL.
 
-ghghjjyutbcwec
+### Day-5 - 22nd November, 2024 - Friday - 2pm to 11pm
+What I achieved today
+
+
+What I am planning to achieve tomorrow
+
+
+Blockers
+
+
+To Overcome
+
+
+Use Case/Business Knowledge acquired
+
 
 
 ## Week-2 / 27
+
+### Day-1 to 5 - Nov 25th, 2024 - Monday to Nov 29th, 2024 - Friday.
+
+- I will be on leave on Monday, Tuesday and Wednesday.
+- Thursday and Friday holiday.
