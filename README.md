@@ -72,20 +72,26 @@ Use Case/Business Knowledge acquired
 - Python integration with MySQL.
 
 ### Day-5 - 22nd November, 2024 - Friday - 2pm to 11pm
-What I achieved today
-
+What did I achieved today
+- Created a database and created tables using Python script (My SQL Connector).
+- Established relationships between tables.
+- Inserted data into the tables using faker module.
+- Enhanced the Database schema for better understanding.
+- Solved a few problems on leetcode.
+- Researched about how to create a csv from python file.
 
 What I am planning to achieve tomorrow
-
+- Add more tables to widen the use case and establish relations b/w them.
+- Researching about advanced use cases of python for Database operations.
+- Revising python well.
 
 Blockers
-
-
-To Overcome
-
+None
 
 Use Case/Business Knowledge acquired
-
+- Performing DB operations using python.
+- How to adjust a database schema for better understanding.
+- Python and its useful libraries for managing database.
 
 
 ## Week-2 / 27
