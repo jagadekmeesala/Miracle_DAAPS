@@ -80,6 +80,11 @@ What did I achieved today
 - Solved a few problems on leetcode.
 - Researched about how to create a csv from python file.
 
+_Dataset Task_
+- We have created 21 tables and each table has relation between one another.
+- We can get the details of any row with joins as we have established relations between the tables well.(There are no standalone tables).
+- The record counts of each of the tables is mentioned in this sheet named Tables. ("[URL](https://docs.google.com/spreadsheets/d/18wU8d8pkmd9neyz7M5Vo9XaMBuphUy-IWGr-n9ViQe8/edit?usp=sharing)")
+
 What I am planning to achieve tomorrow
 - Add more tables to widen the use case and establish relations b/w them.
 - Researching about advanced use cases of python for Database operations.
