@@ -110,3 +110,24 @@ Use Case/Business Knowledge acquired
 ## Week-3 / 28
 
 ### Day-1 - Dec 2nd, 2024 - Monday.
+What did I achieve today
+- Solved problems on SQL on LeetCode.
+- Revised SQL on W3 Schools (Completed 19%).
+- Started revising Python (Completed 14%).
+- Managed Python script that I have written to create a dataset.
+- Researched about ETL.
+- Difference between OLTP and OLAP.
+
+What I am planning to achieve tomorrow
+- Continue researching about ETL and the tools needed.
+- Resume revision of SQL and Python on W3 Schools.
+- Start to solve scenarios of PL/SQL and problems on Python.
+
+Blockers
+None
+
+Use Case/Business Knowledge acquired
+- How Organisations use ETL.
+- What is the role of ETL developer and Data Engineer.
+- Solving scenarios of SQL.
+- Revising Python.
