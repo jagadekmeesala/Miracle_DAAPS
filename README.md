@@ -105,3 +105,8 @@ Use Case/Business Knowledge acquired
 
 - I will be on leave on Monday, Tuesday and Wednesday.
 - Thursday and Friday holiday.
+
+
+## Week-3 / 28
+
+### Day-1 - Dec 2nd, 2024 - Monday.
