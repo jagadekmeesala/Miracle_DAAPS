@@ -131,3 +131,5 @@ Use Case/Business Knowledge acquired
 - What is the role of ETL developer and Data Engineer.
 - Solving scenarios of SQL.
 - Revising Python.
+
+### Day-2 - Dec 3rd, 2024 - Tuesday.
