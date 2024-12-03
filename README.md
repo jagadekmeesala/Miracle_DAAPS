@@ -133,3 +133,25 @@ Use Case/Business Knowledge acquired
 - Revising Python.
 
 ### Day-2 - Dec 3rd, 2024 - Tuesday.
+What did I achieve today
+- Learnt about different tools in ETL process.
+- How ETL and ELT differ.
+- Revised SQL on W3 Schools (Completed 27%).
+- Revised Python on W3 Schools(Completed 17%).
+- Worked on Logistics domain dataset's Python script.
+- Made corrections in the schema of the database.
+- Inserting data as per the corrections made.
+
+What I am planning to achieve tomorrow
+- Insert the data into main tables as per the discussion.
+- Start to document the progress of the dataset generation task.
+- Resume learnings of Python and MySQL.
+
+Blockers
+None
+
+Use Case/Business Knowledge acquired
+- ETL Tools
+- ETL from different sources and databases.
+- Revise Python and SQL.
+- Logistics domain database structure.
