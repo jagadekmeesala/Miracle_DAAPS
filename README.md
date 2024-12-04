@@ -155,3 +155,26 @@ Use Case/Business Knowledge acquired
 - ETL from different sources and databases.
 - Revise Python and SQL.
 - Logistics domain database structure.
+
+### Day-3 - Dec 4th, 2024 - Wednesday.
+What did I achieve today
+- Worked on Logistics Dataset generation task.
+- Practiced SQL in W3 Schools(62% Completed).
+- Created and validated the data created in the database.
+- Worked on Insurance tables arrangement.
+- Discussed about MiraDbsHARp web application.
+- Started learning PowerBI.
+
+What I am planning to achieve tomorrow
+- Learn PowerBI.
+- Analyse and understand MiraDbsHARp project.
+- Get KT of the tool and Power BI.
+
+Blockers
+None
+
+Use Case/Business Knowledge acquired
+- miraDbsHARp.
+- Logistics Domain.
+- Insurance Domain.
+- PowerBI.
