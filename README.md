@@ -167,6 +167,7 @@ What did I achieve today
 
 What I am planning to achieve tomorrow
 - Learn PowerBI.
+- Create a web application from PowerBI.
 - Analyse and understand MiraDbsHARp project.
 - Get KT of the tool and Power BI.
 
