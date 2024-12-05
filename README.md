@@ -186,6 +186,7 @@ What did I achieve today
 - Learnt about miraDbsHARp by taking KT from seniors.
 - Started course on Udemy on PowerBI.
 - Worked on Dataset generation task to connect it with SQL Server.
+- Tried to migrate dataset generation task from MySQL to SQL Server
 
 What I am planning to achieve tomorrow
 - Work on dataset generation task.
