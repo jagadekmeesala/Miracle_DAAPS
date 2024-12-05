@@ -179,3 +179,25 @@ Use Case/Business Knowledge acquired
 - Logistics Domain.
 - Insurance Domain.
 - PowerBI.
+
+### Day-4 - Dec 5th, 2024 - Thursday.
+What did I achieve today
+- Learnt PowerBI from Youtube tutorials.
+- Learnt about miraDbsHARp by taking KT from seniors.
+- Started course on Udemy on PowerBI.
+- Worked on Dataset generation task to connect it with SQL Server.
+
+What I am planning to achieve tomorrow
+- Learn PowerBI.
+- Create a web application from PowerBI.
+- Analyse and understand MiraDbsHARp project.
+- Get KT of the tool and Power BI.
+
+Blockers
+- PowerBI has not installed in my system as there is a trouble with Microsoft store.
+- Connection of python script with SQL Server.
+
+Use Case/Business Knowledge acquired
+- miraDbsHARp.
+- SQL Server
+- PowerBI.
