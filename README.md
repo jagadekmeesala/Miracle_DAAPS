@@ -188,10 +188,11 @@ What did I achieve today
 - Worked on Dataset generation task to connect it with SQL Server.
 
 What I am planning to achieve tomorrow
-- Learn PowerBI.
-- Create a web application from PowerBI.
-- Analyse and understand MiraDbsHARp project.
-- Get KT of the tool and Power BI.
+- Work on dataset generation task.
+- Learn SQL Server.
+- Start designing miraDbsHARp web application.
+- Start PowerBI hands-on.
+- Continue progress of SQL on w3 schools.
 
 Blockers
 - PowerBI has not installed in my system as there is a trouble with Microsoft store.
