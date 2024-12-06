@@ -212,7 +212,7 @@ What I am planning to achieve tomorrow
 
 
 Blockers
-
+- PowerBI has not installed in my system as there is a trouble with Microsoft store.
 
 Use Case/Business Knowledge acquired
 
