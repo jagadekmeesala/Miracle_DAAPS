@@ -225,4 +225,7 @@ Blockers
 - Angular has not yet been installed due to which frontend screens design has been on hold.
 
 Use Case/Business Knowledge acquired
-
+- miraDbsHARp.
+- SQL Practice on w3 schools.
+- Logistics domain.
+- API design.
