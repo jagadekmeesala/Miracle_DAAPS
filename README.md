@@ -206,13 +206,23 @@ Use Case/Business Knowledge acquired
 
 ### Day-5 - Dec 6th, 2024 - Friday.
 What did I achieve today
-
+- Written an API to display data for overview page in miraDbsHARp web application.
+- Got Python scripts KT from Mani Gopal Pakkurthi.
+- Maintained documentation of miraDbsHARp.
+- Practiced SQL on w3 schools(Completed 75%).
+- Tried to design a screen in Angular.
+- Tried to migrate database from mysql to sql server.
 
 What I am planning to achieve tomorrow
-
+- Write API specific to server name to display data on click of a server in overview page.
+- Design an overview screen and integrate it with backend.
+- Do hands on of PowerBI
+- Analyse more of miraDbsHARp python scripts and databases.
 
 Blockers
 - PowerBI has not installed in my system as there is a trouble with Microsoft store.
+- Pymssql has not yet installed due to which integration of python script with mssql has not been done.
+- Angular has not yet been installed due to which frontend screens design has been on hold.
 
 Use Case/Business Knowledge acquired
 
