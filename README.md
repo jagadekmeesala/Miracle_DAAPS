@@ -203,3 +203,27 @@ Use Case/Business Knowledge acquired
 - miraDbsHARp.
 - SQL Server
 - PowerBI.
+
+### Day-5 - Dec 6th, 2024 - Friday.
+What did I achieve today
+- Learnt PowerBI from Youtube tutorials.
+- Learnt about miraDbsHARp by taking KT from seniors.
+- Started course on Udemy on PowerBI.
+- Worked on Dataset generation task to connect it with SQL Server.
+- Tried to migrate dataset generation task from MySQL to SQL Server
+
+What I am planning to achieve tomorrow
+- Work on dataset generation task.
+- Learn SQL Server.
+- Start designing miraDbsHARp web application.
+- Start PowerBI hands-on.
+- Continue progress of SQL on w3 schools.
+
+Blockers
+- PowerBI has not installed in my system as there is a trouble with Microsoft store.
+- Connection of python script with SQL Server.
+
+Use Case/Business Knowledge acquired
+- miraDbsHARp.
+- SQL Server
+- PowerBI.
