@@ -229,3 +229,30 @@ Use Case/Business Knowledge acquired
 - SQL Practice on w3 schools.
 - Logistics domain.
 - API design.
+
+
+## Week-3 / 28
+
+### Day-1 - Dec 2nd, 2024 - Monday.
+What did I achieve today
+- Designed requirements for miraDbsHARp web application.
+- Designed frontend screen using Angular.
+- Enhanced backend API in Node.
+- Watched Power BI tutorial on Youtube.
+- Worked on Sheets for logistics data generation task.
+- Started working on Logistics documentation.
+
+What I am planning to achieve tomorrow
+- Design and integrate APIs into Angular frontend.
+- Write APIs in Node for miraDbsHARp.
+- Work on Power BI course.
+
+Blockers
+- Power BI installation.
+- MSSQL integration with Python
+
+Use Case/Business Knowledge acquired
+- Angular
+- Node
+- Power BI
+- Logistics
