@@ -233,7 +233,7 @@ Use Case/Business Knowledge acquired
 
 ## Week-3 / 28
 
-### Day-1 - Dec 2nd, 2024 - Monday.
+### Day-1 - Dec 9th, 2024 - Monday.
 What did I achieve today
 - Designed requirements for miraDbsHARp web application.
 - Designed frontend screen using Angular.
@@ -256,3 +256,26 @@ Use Case/Business Knowledge acquired
 - Node
 - Power BI
 - Logistics
+
+### Day-2 - Dec 10th, 2024 - Tuesday.
+What did I achieve today
+- Set up angular application with proper routing and integrations.
+- Designed overview page for miraDbSHARp.
+- Integrated Node API for overview page.
+- Connected Python Script with SQL server.
+- Created schema and inserted data into SQL server database.
+- Referred PowerBI tutorials online
+
+What I am planning to achieve tomorrow
+- Design screen for Home page of Individual servers.
+- Write API for Home page of Individual server in node.
+- Install Power BI and start working on the course.
+
+Blockers
+- Power BI installation.
+
+Use Case/Business Knowledge acquired
+- Angular Designing.
+- Node APIs
+- Power BI
+- Logistics domain
