@@ -279,3 +279,30 @@ Use Case/Business Knowledge acquired
 - Node APIs
 - Power BI
 - Logistics domain
+
+### Day-3 - Dec 11th, 2024 - Wednesday.
+What did I achieve today
+- Written an API for miraDbSHARp using Node.
+- Worked on Screen design in angular for home page.
+- My SQL Queries for Home page API got verified by Mani Gopal Pakkurthi.
+- Presented dataset generation POC to Satish Jagarlamudi.
+- Worked on Documentation and PPT of Logistics domain task.
+- Got Power Bi Overview from Abhishek Dangudubiyyapu.
+
+What I am planning to achieve tomorrow
+- Design screen for Home page of Individual servers.
+- Get documentation and PPT verified by Satish Mongam.
+- Start working on Power BI course.
+
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Angular Designing.
+- Node APIs
+- Power BI
+- Logistics domain
+- Documentation
+- PPT designing
+
+### Day-4 - Dec 12th, 2024 - Thursday.
