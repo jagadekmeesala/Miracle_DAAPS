@@ -306,3 +306,27 @@ Use Case/Business Knowledge acquired
 - PPT designing
 
 ### Day-4 - Dec 12th, 2024 - Thursday.
+What did I achieve today
+- Completed 1 1/2 modules of Power BI udemy course.
+- Got hands-on of Power BI.
+- Worked on Screen design in angular for home page of individual servers in miraDbSHARp.
+- Enhanced the API that I have written in Node.
+- Working on the further APIs of miraDbSHARp.
+- Discussed about flow of Dataset generation web app. 
+- Worked on Documentation and PPT of Logistics domain task.
+
+What I am planning to achieve tomorrow
+- Start designing of screen for dataset generation.
+- Start working on backend side of dataset generation.
+- Design screen for Home page of Individual servers.
+- Progress in Power BI course.
+
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Power BI.
+- Node APIs.
+- Documentation.
+- Presentation.
+- PPT designing.
