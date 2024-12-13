@@ -330,3 +330,28 @@ Use Case/Business Knowledge acquired
 - Documentation.
 - Presentation.
 - PPT designing.
+
+### Day-5 - Dec 12th, 2024 - Thursday.
+What did I achieve today
+- Completed data transformation module of Power BI udemy course.
+- Got hands on of Query editor in power BI.
+- Worked on Home screen design for miraDbSHARp.
+- Written SQL query for Home Page API.
+- Analysed the further requirement for miraDbSHARp.
+- Worked on the changes in the documentation of Logistics dataset task. 
+- .
+
+What I am planning to achieve tomorrow
+- Start designing of screen for logistics dataset generation.
+- Create first visual in Power BI.
+- Complete the data transformation in Power BI.
+- Work on screen design for miraDbSHARp.
+
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Power BI practice.
+- Node APIs.
+- Documentation.
+- Angular screen design.
