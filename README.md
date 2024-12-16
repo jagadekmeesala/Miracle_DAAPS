@@ -359,26 +359,26 @@ Use Case/Business Knowledge acquired
 
 ## Week-4 / 29
 
-### Day-1 - Dec 9th, 2024 - Monday.
+### Day-1 - Dec 16th, 2024 - Monday.
 What did I achieve today
-- Designed requirements for miraDbsHARp web application.
-- Designed frontend screen using Angular.
-- Enhanced backend API in Node.
-- Watched Power BI tutorial on Youtube.
-- Worked on Sheets for logistics data generation task.
-- Started working on Logistics documentation.
+- Completed Query editor module.
+- Worked on Data transformation module in udemy course.
+- Designed first visual reports in Power BI.
+- Did data transformation and modelling in Power BI.
+- Worked on Dataset generation - Logistics domain.
+- Written SQL query for miraDbSHARp API.
 
 What I am planning to achieve tomorrow
-- Design and integrate APIs into Angular frontend.
-- Write APIs in Node for miraDbsHARp.
-- Work on Power BI course.
+- Design visuals and create a power BI report in data visualization part.
+- Start writing DAX functions.
+- Create visuals on the transformed data.
+- Complete APIs from miraDbSHARp.
 
 Blockers
-- Power BI installation.
-- MSSQL integration with Python
+- Data type error in Power BI.
 
 Use Case/Business Knowledge acquired
-- Angular
-- Node
-- Power BI
-- Logistics
+- Query editor in Power BI.
+- Data Transformation.
+- Visuals designing.
+- API Designing.
