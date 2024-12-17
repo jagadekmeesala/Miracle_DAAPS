@@ -382,3 +382,28 @@ Use Case/Business Knowledge acquired
 - Data Transformation.
 - Visuals designing.
 - API Designing.
+
+### Day-1 - Dec 16th, 2024 - Monday.
+What did I achieve today
+- Revised hands on "Data transformation" module in Power Query.
+- Completed "Data Modelling" module in Power BI.
+- Established relationships between tables in practice module.
+- Worked on DAX(Data Analysis Expression) in Power BI.
+- Attempted and completed assignment 2 in Udemy.
+- Started working on Data visualization module in the course.
+- Enhanced Logistics Domain Data model and edited few tables and their attributes.
+
+What I am planning to achieve tomorrow
+- Create Power BI report.
+- Attempt 3rd Assignment of Power BI.
+- Complete "Data Visualization" Module.
+- Finalize Logistics Domain Data model.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Data Transformation in Power BI.
+- Data Modelling.
+- Creating Power BI Report.
+- Logistics Data Model.
