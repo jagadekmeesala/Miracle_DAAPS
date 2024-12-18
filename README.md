@@ -383,7 +383,7 @@ Use Case/Business Knowledge acquired
 - Visuals designing.
 - API Designing.
 
-### Day-1 - Dec 16th, 2024 - Monday.
+### Day-2 - Dec 17th, 2024 - Monday.
 What did I achieve today
 - Revised hands on "Data transformation" module in Power Query.
 - Completed "Data Modelling" module in Power BI.
@@ -407,3 +407,22 @@ Use Case/Business Knowledge acquired
 - Data Modelling.
 - Creating Power BI Report.
 - Logistics Data Model.
+
+### Day-3 - Dec 18th, 2024 - Monday.
+What did I achieve today
+- Creating and Duplicating pages.
+- Organizing visuals.
+- Creating charts.
+- Editing backgrounds.
+- Formatting wallpaper. 
+
+What I am planning to achieve tomorrow
+- Creating tables.
+- Syncing slicers.
+- Combining charts.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Power BI.
