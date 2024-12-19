@@ -428,19 +428,20 @@ Use Case/Business Knowledge acquired
 
 ### Day-4 - Dec 18th, 2024 - Monday.
 What did I achieve today
-- Creating and Duplicating pages.
-- Organizing visuals.
-- Creating charts.
-- Editing backgrounds.
-- Formatting wallpaper. 
+- Completed 6th Module (i.e Data visualization) in Power BI course on Udemy.
+- Synced slicers for all the pages.
+- Created tables as a part of data visualization.
+- Formatted charts to maintain uniformity of visualizations.
+- Adding secondary Y axis.
 
 What I am planning to achieve tomorrow
-- Creating tables.
-- Syncing slicers.
-- Combining charts.
+- Learn about Power BI Pro and Mobile.
+- Sharing Power BI reports to others.
+- Accessibilty and Collaboration in Power BI.
 
 Blockers
 - None.
 
 Use Case/Business Knowledge acquired
 - Power BI.
+- Visualizations in Power BI.
