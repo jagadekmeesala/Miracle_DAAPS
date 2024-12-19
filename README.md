@@ -61,10 +61,10 @@ What I am planning to achieve tomorrow
 - Build and maintain the database well by following normalisation.
 
 Blockers
-Issue in integration of Python and MySQL
+- Issue in integration of Python and MySQL
 
 To Overcome
-I have planned to do the task on my local system(Currently I am using google colab) which will be a bit easier to track the errors and resolve them.
+- I have planned to do the task on my local system(Currently I am using google colab) which will be a bit easier to track the errors and resolve them.
 
 Use Case/Business Knowledge acquired
 - Logistics and Supply chain.
@@ -91,7 +91,7 @@ What I am planning to achieve tomorrow
 - Revising python well.
 
 Blockers
-None
+- None
 
 Use Case/Business Knowledge acquired
 - Performing DB operations using python.
@@ -124,7 +124,7 @@ What I am planning to achieve tomorrow
 - Start to solve scenarios of PL/SQL and problems on Python.
 
 Blockers
-None
+- None
 
 Use Case/Business Knowledge acquired
 - How Organisations use ETL.
@@ -148,7 +148,7 @@ What I am planning to achieve tomorrow
 - Resume learnings of Python and MySQL.
 
 Blockers
-None
+- None
 
 Use Case/Business Knowledge acquired
 - ETL Tools
@@ -172,7 +172,7 @@ What I am planning to achieve tomorrow
 - Get KT of the tool and Power BI.
 
 Blockers
-None
+- None
 
 Use Case/Business Knowledge acquired
 - miraDbsHARp.
@@ -339,7 +339,6 @@ What did I achieve today
 - Written SQL query for Home Page API.
 - Analysed the further requirement for miraDbSHARp.
 - Worked on the changes in the documentation of Logistics dataset task. 
-- .
 
 What I am planning to achieve tomorrow
 - Start designing of screen for logistics dataset generation.
@@ -409,6 +408,25 @@ Use Case/Business Knowledge acquired
 - Logistics Data Model.
 
 ### Day-3 - Dec 18th, 2024 - Monday.
+What did I achieve today
+- Creating and Duplicating pages.
+- Organizing visuals.
+- Creating charts.
+- Editing backgrounds.
+- Formatting wallpaper. 
+
+What I am planning to achieve tomorrow
+- Creating tables.
+- Syncing slicers.
+- Combining charts.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Power BI.
+
+### Day-4 - Dec 18th, 2024 - Monday.
 What did I achieve today
 - Creating and Duplicating pages.
 - Organizing visuals.
