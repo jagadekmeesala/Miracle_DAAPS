@@ -482,13 +482,18 @@ Use Case/Business Knowledge acquired
 What did I achieve today
 - Completed SQL practice and Revision on W3 schools
 - Attempted assignment of SQL on W3 schools.
-- 
+- Worked on Data Transformation module in Power BI.
+- Attempted assignment and submitted in Udemy.
+- Refreshed Power BI fundamentals from YouTube.
 
 What I am planning to achieve tomorrow
-
+- Do Hands on of dashboard in Power BI.
+- Create a dashboard of a domain.
+- Start working on Python and Machine learning
 
 Blockers
 - None.
 
 Use Case/Business Knowledge acquired
 - Power BI.
+- SQL.
