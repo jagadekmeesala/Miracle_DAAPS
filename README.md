@@ -480,7 +480,9 @@ Use Case/Business Knowledge acquired
 
 ### Day-2 - Dec 31st, 2024 - Tuesday.
 What did I achieve today
-
+- Completed SQL practice and Revision on W3 schools
+- Attempted assignment of SQL on W3 schools.
+- 
 
 What I am planning to achieve tomorrow
 
