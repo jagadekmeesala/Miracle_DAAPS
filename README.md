@@ -382,7 +382,7 @@ Use Case/Business Knowledge acquired
 - Visuals designing.
 - API Designing.
 
-### Day-2 - Dec 17th, 2024 - Monday.
+### Day-2 - Dec 17th, 2024 - Tuesday.
 What did I achieve today
 - Revised hands on "Data transformation" module in Power Query.
 - Completed "Data Modelling" module in Power BI.
@@ -407,7 +407,7 @@ Use Case/Business Knowledge acquired
 - Creating Power BI Report.
 - Logistics Data Model.
 
-### Day-3 - Dec 18th, 2024 - Monday.
+### Day-3 - Dec 18th, 2024 - Wednesday.
 What did I achieve today
 - Creating and Duplicating pages.
 - Organizing visuals.
@@ -426,7 +426,7 @@ Blockers
 Use Case/Business Knowledge acquired
 - Power BI.
 
-### Day-4 - Dec 18th, 2024 - Monday.
+### Day-4 - Dec 19th, 2024 - Thursday.
 What did I achieve today
 - Completed 6th Module (i.e Data visualization) in Power BI course on Udemy.
 - Synced slicers for all the pages.
@@ -445,3 +445,48 @@ Blockers
 Use Case/Business Knowledge acquired
 - Power BI.
 - Visualizations in Power BI.
+
+### Day-5 - Dec 20th, 2024 - Friday.
+What did I achieve today
+- Decided on Use case for hackathon.
+- Worked on requirement gathering for Hackathon.
+- Worked on Power BI report view.
+- Completed 5th module in udemy course
+
+What I am planning to achieve tomorrow
+- Attend hackathon
+- Create Power BI report in hackathon
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Power BI.
+
+
+## Week-5 / 30
+
+### Day-1 to 5 - Dec 23rd, 2024 - Monday to Dec 27th, 2024 - Friday.
+
+- Holiday on Monday, Tuesday and Wednesday.
+- Thursday is comp-off as I have stayed for hackathon in office on 21st Dec, 2024 - Saturday and 22nd Dec, 2024 - Sunday.
+- Friday, I am on leave.
+
+
+## Week-6 / 31
+
+### Day-1 - Dec 30th, 2024 - Monday.
+- I am on Leave
+
+### Day-2 - Dec 31st, 2024 - Tuesday.
+What did I achieve today
+
+
+What I am planning to achieve tomorrow
+
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Power BI.
