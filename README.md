@@ -497,3 +497,13 @@ Blockers
 Use Case/Business Knowledge acquired
 - Power BI.
 - SQL.
+
+### Day-3 Jan 1st, 2025 - Wednesday.
+What did I achieve today
+
+What I am planning to achieve tomorrow
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
