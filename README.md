@@ -500,10 +500,20 @@ Use Case/Business Knowledge acquired
 
 ### Day-3 Jan 1st, 2025 - Wednesday.
 What did I achieve today
+- Learnt about Power BI pro, premium, mobile and ways to access them.
+- Learnt about process of sharing dashboards, reports and datasets from one user to other user using Power BI pro.
+- Started working on HR Analytics dashboard
+- Worked on the Logistics and Insurance Documentation and PPT for Dataset Generation.
+- Worked on Data model and code part for Dataset generation.
 
 What I am planning to achieve tomorrow
+- Work on Power Query to clean up the data for HR Analytics dashboard.
+- Model the data in the form of Fact and Dim tables for clear analytics.
+- Complete Udemy course on Power BI.
 
 Blockers
 - None.
 
 Use Case/Business Knowledge acquired
+- Power BI - Power Query, Modelling.
+- HR Analytics.
