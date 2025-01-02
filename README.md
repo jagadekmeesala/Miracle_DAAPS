@@ -498,7 +498,7 @@ Use Case/Business Knowledge acquired
 - Power BI.
 - SQL.
 
-### Day-3 Jan 1st, 2025 - Wednesday.
+### Day-3 - Jan 1st, 2025 - Wednesday.
 What did I achieve today
 - Learnt about Power BI pro, premium, mobile and ways to access them.
 - Learnt about process of sharing dashboards, reports and datasets from one user to other user using Power BI pro.
@@ -517,3 +517,28 @@ Blockers
 Use Case/Business Knowledge acquired
 - Power BI - Power Query, Modelling.
 - HR Analytics.
+
+### Day-4 - Jan 2nd, 2025 - Thursday.
+What did I achieve today
+- Worked on Power query and Modelling to establish relations for data of HR Analytics Dashboard. 
+- Built a HR Analytics Visualizations using Power BI.
+- Tested SQL Script for creation of schema and data insertion of Logistics dataset.
+- Worked on SQL Script for data insertion in SQL.
+- Worked on PPT and Documentation for Dataset generation.
+- Started learning about Looker platform through Online tutorials.
+
+What am I planning to achieve tomorrow
+- Enhance the HR Analytics with more informative visuals.
+- Complete the tasks assigned to on Power BI.
+- Learn the advanced concepts of Power BI clearly.
+- Work and understand the working of Looker and LookML.
+  
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Power BI.
+- Python.
+- SQL
+- Dataset Generation.
+- Looker
