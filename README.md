@@ -542,3 +542,28 @@ Use Case/Business Knowledge acquired
 - SQL
 - Dataset Generation.
 - Looker
+
+### Day-5 - Jan 3rd, 2025 - Friday.
+What did I achieve today
+- Enhanced the HR Analytics Power BI report.
+- Worked on Dataset research of world population for Geo Spatial analysis of data.
+- Did data transformation for the data that I have found in Kaggle.
+- Divided into DIM and Fact tables based on the information.
+- Established relations between the divided tables.
+- Started working on visuals related to maps in Power BI.
+- Worked on the python script of dataset generation task
+
+What am I planning to achieve tomorrow
+- Complete Geo Spatial analysis task in Power BI.
+- Present Dataset generation PPT.
+- Complete HR Analytics dashboard.
+- Work on the issue of sign in while using map visual in Power BI.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Power BI.
+- Python.
+- SQL
+- Dataset Generation.
