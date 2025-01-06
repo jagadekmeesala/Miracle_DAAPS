@@ -572,13 +572,9 @@ Use Case/Business Knowledge acquired
 
 ### Day-1 - Jan 6th, 2024 - Monday.
 What did I achieve today
-- Enhanced the HR Analytics Power BI report.
-- Worked on Dataset research of world population for Geo Spatial analysis of data.
-- Did data transformation for the data that I have found in Kaggle.
-- Divided into DIM and Fact tables based on the information.
-- Established relations between the divided tables.
-- Started working on visuals related to maps in Power BI.
-- Worked on the python script of dataset generation task
+- Cleaned up data for Sales report dashboard using Power BI.
+- Enhanced HR Analytics dashboard.
+- 
 
 What am I planning to achieve tomorrow
 - Complete Geo Spatial analysis task in Power BI.
@@ -591,6 +587,4 @@ Blockers
 
 Use Case/Business Knowledge acquired
 - Power BI.
-- Python.
-- SQL
-- Dataset Generation.
+- Power Automate
