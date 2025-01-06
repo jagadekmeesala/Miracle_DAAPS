@@ -573,18 +573,21 @@ Use Case/Business Knowledge acquired
 ### Day-1 - Jan 6th, 2024 - Monday.
 What did I achieve today
 - Cleaned up data for Sales report dashboard using Power BI.
-- Enhanced HR Analytics dashboard.
-- 
+- Added slicers for HR Analytics dashboard.
+- Watched tutorials on Youtube to learn about Power Automate.
+- Using Power Automate integrated gmail inbox and linked it to sheets.
+- Completed Geo spatial analysis report in Power BI.
+- Started working on Dynamic reports using Multi language reports.
 
 What am I planning to achieve tomorrow
-- Complete Geo Spatial analysis task in Power BI.
-- Present Dataset generation PPT.
-- Complete HR Analytics dashboard.
-- Work on the issue of sign in while using map visual in Power BI.
+- Complete the task "Dynamic reports using Multi language reports".
+- Start learning about One lake in Microsoft Fabric.
+- Complete learning about Power Automate.
+- Start creating workflows using Power Automate.
 
 Blockers
 - None.
 
 Use Case/Business Knowledge acquired
 - Power BI.
-- Power Automate
+- Power Automate.
