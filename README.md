@@ -604,13 +604,14 @@ What did I achieve today
 - Automated email sending when a new email has been added to sheets.
 - Learnt about Microsoft fabric.
 - Created data lakehouse and data pipeline using fabric.
--  
+- PPT for Logistics domain Dataset generation.
+- Presented PPT for Logistics domain Dataset generation.
 
 What am I planning to achieve tomorrow
-- Complete the task "Dynamic reports using Multi language reports".
-- Start learning about One lake in Microsoft Fabric.
-- Complete learning about Power Automate.
-- Start creating workflows using Power Automate.
+- Complete Power Automate learning.
+- Create data ingestion pipeline from lakehouse to warehouse.
+- Work on different visualizations in Power BI.
+- Present Logistics domain Dataset generation PPT for JAM session.
 
 Blockers
 - None.
@@ -618,3 +619,4 @@ Blockers
 Use Case/Business Knowledge acquired
 - Power BI.
 - Power Automate.
+- Microsoft Fabric.
