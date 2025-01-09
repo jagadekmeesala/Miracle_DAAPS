@@ -591,3 +591,30 @@ Blockers
 Use Case/Business Knowledge acquired
 - Power BI.
 - Power Automate.
+
+### Day-2 - Jan 7th, 2024 - Tuesday.
+- Sankranthi Celebrations.
+
+### Day-3 - Jan 8th, 2024 - Wednesday.
+- Sankranthi Celebrations.
+
+### Day-4 - Jan 9th, 2024 - Thursday.
+What did I achieve today
+- Worked on Power automate.
+- Automated email sending when a new email has been added to sheets.
+- Learnt about Microsoft fabric.
+- Created data lakehouse and data pipeline using fabric.
+-  
+
+What am I planning to achieve tomorrow
+- Complete the task "Dynamic reports using Multi language reports".
+- Start learning about One lake in Microsoft Fabric.
+- Complete learning about Power Automate.
+- Start creating workflows using Power Automate.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Power BI.
+- Power Automate.
