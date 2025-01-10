@@ -621,7 +621,7 @@ Use Case/Business Knowledge acquired
 - Power Automate.
 - Microsoft Fabric.
 
-### Day-4 - Jan 9th, 2024 - Thursday.
+### Day-5 - Jan 10th, 2024 - Friday.
 What did I achieve today
 - Enhanced the PPT for Dataset generation POC.
 - Presneted PPT in JAM session.
