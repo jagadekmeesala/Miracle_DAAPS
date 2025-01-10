@@ -620,3 +620,25 @@ Use Case/Business Knowledge acquired
 - Power BI.
 - Power Automate.
 - Microsoft Fabric.
+
+### Day-4 - Jan 9th, 2024 - Thursday.
+What did I achieve today
+- Enhanced the PPT for Dataset generation POC.
+- Presneted PPT in JAM session.
+- Worked on Power Automate - Automating data insertion into power BI from sheets.
+- Exploring Microsoft Fabric - creating pipeling, lake-house, ware-house.
+- KPIs visualization creation in Power BI.
+
+What am I planning to achieve tomorrow
+- Complete learning about KPIs in Power BI.
+- Work on Dataset generation task's error handling.
+- Create an end-to-end task in Microsoft Fabric.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Power BI.
+- Presentation.
+- Dataset generation
+- Microsoft Fabric.
