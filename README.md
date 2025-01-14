@@ -650,15 +650,23 @@ Use Case/Business Knowledge acquired
 Leave
 
 ### Day-2 - Jan 14th, 2024 - Tuesday.
-
 What did I achieve today
-- 
+- Worked on Microsoft Fabric for creating pipelines.
+- Researched about Big data analytics.
+- Learnt basics about Apache Spark.
+- Watched tutorials about PL/SQL.
 
 What am I planning to achieve tomorrow
-- 
+- Learn about Database administration in SQL server.
+- Complete PL/SQL tutorials.
+- Work on Big Data analytics (Apache Spark).
+- Work on ingesting data using fabric.
 
 Blockers
 - None.
 
 Use Case/Business Knowledge acquired
-- 
+- PL/SQL.
+- Fabric.
+- Big Data Analytics.
+- Apache Spark.
