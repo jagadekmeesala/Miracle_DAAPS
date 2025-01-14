@@ -642,3 +642,23 @@ Use Case/Business Knowledge acquired
 - Presentation.
 - Dataset generation
 - Microsoft Fabric.
+
+
+## Week-8 / 33
+
+### Day-1 - Jan 13th, 2024 - Monday.
+Leave
+
+### Day-2 - Jan 14th, 2024 - Tuesday.
+
+What did I achieve today
+- 
+
+What am I planning to achieve tomorrow
+- 
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- 
