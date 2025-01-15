@@ -670,3 +670,23 @@ Use Case/Business Knowledge acquired
 - Fabric.
 - Big Data Analytics.
 - Apache Spark.
+
+### Day-3 - Jan 15th, 2024 - Wednesday.
+What did I achieve today
+- Learnt PL/SQL from tutorials point.
+- Explored concepts of Big data analytics and realtime projects on it from tutorials point.
+- Completed 2 videos on Power BI from the Power BI Training list.
+- Did hands on Power BI on HR Analytics Dashboard project.
+
+What am I planning to achieve tomorrow
+- Complete few more video tutorials on Power BI from the training sheet.
+- Work on PL/SQL hands-on using complex PL/SQL on the existing database.
+- Work on Big data analytics project.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- PL/SQL.
+- Big Data Analytics.
+- Power BI.
