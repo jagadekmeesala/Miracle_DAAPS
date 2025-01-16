@@ -690,3 +690,23 @@ Use Case/Business Knowledge acquired
 - PL/SQL.
 - Big Data Analytics.
 - Power BI.
+
+### Day-4 - Jan 16th, 2024 - Thursday.
+What did I achieve today
+- Learnt PL/SQL procedures from youtube and w3 schools.
+- Worked on existing database for practicing PL/SQL.
+- Researched about slicers and their settings in Power BI.
+- Practiced SQL queries from Leetcode.
+- Noted and worked on SQL parameters and types.
+
+What am I planning to achieve tomorrow
+- Complete video tutorials and hands-on on Power BI from the training sheet.
+- Complete PL/SQL learning from youtube and practice using realtime scenario.
+- Work on Power Automate and Microsoft Fabric.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- PL/SQL.
+- Power BI.
