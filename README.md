@@ -710,3 +710,26 @@ Blockers
 Use Case/Business Knowledge acquired
 - PL/SQL.
 - Power BI.
+
+### Day- 5 - Jan 17th, 2024 - Friday.
+What did I achieve today
+- Read articles about Big Data Analytics from IBM.
+- Researched about tools for Big data analytics.
+- Types of Big data analytics.
+- Researched about Apache tools like spark and others like talend.
+- Presented Logistics domain dataset PPT in JAM session.
+- Recieved feedback from attendees and implemented them.
+
+What am I planning to achieve tomorrow
+- Learn Database Administration.
+- Revise concepts in Power Automate.
+- Start learning a tool in Big data analytics.
+- Work on a single project in Power BI.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Big data analytics.
+- Presentation.
+- Logistics.
