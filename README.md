@@ -733,3 +733,29 @@ Use Case/Business Knowledge acquired
 - Big data analytics.
 - Presentation.
 - Logistics.
+
+
+## Week-9 / 34
+
+### Day-1 - Jan 20th, 2024 - Monday.
+What did I achieve today
+- Worked on DAX functions, Power query in Power BI.
+- Learnt about different data sources and data ingestion types in Power BI.
+- Security levels in Power BI.
+- Started learning about database administration in SQL server.
+- Backup operations in SQL server and its types.
+- Restoring formats and its types.
+- Learnt about logins and users in SQL server Administration.
+
+What am I planning to achieve tomorrow
+- Complete remaining concepts in Power BI tutorial.
+- Work on Security in SQL server Administration.
+- Disaster recovery plan in SQL server.
+- Advanced concepts in SQL server management.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Power BI
+- Database Administration.
