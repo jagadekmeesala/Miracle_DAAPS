@@ -762,14 +762,23 @@ Use Case/Business Knowledge acquired
 
 ### Day-2 - Jan 21st, 2024 - Tuesday.
 What did I achieve today
-- 
+- Completed iterative functions, rank functions and what if analysis.
+- Researched about drill mechanism in Power BI - Drill up, drill down, drill through.
+- Ask a question functionality, tooltip visuals, traffic light visuals in Power BI.
+- Learned how to install SQL Server in my system.
+- Learned about backup and restore in SQL Server.
+- Researched about Azure Data Factory.
 
-What am I planning to achieve tomorrow
-- 
+What am I planning to achieve tomorrow.
+- Create a pipeline in Azure Data Factory.
+- Complete Power BI Tutorial.
+- Start recieving KT of MiraDBSharp.
+- Work on Database Administration.
 
 Blockers
 - None.
 
 Use Case/Business Knowledge acquired
-- Power BI
+- Power BI.
 - Database Administration.
+- Azure Data Factory.
