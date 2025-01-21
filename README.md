@@ -759,3 +759,17 @@ Blockers
 Use Case/Business Knowledge acquired
 - Power BI
 - Database Administration.
+
+### Day-2 - Jan 21st, 2024 - Tuesday.
+What did I achieve today
+- 
+
+What am I planning to achieve tomorrow
+- 
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Power BI
+- Database Administration.
