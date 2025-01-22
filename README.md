@@ -782,3 +782,28 @@ Use Case/Business Knowledge acquired
 - Power BI.
 - Database Administration.
 - Azure Data Factory.
+
+### Day-3 - Jan 22nd, 2024 - Wednesday.
+What did I achieve today
+- Watched tutorials on creating a power BI service.
+- Learnt about Power BI desktop, pro and premium.
+- Understood how Power BI provides services on cloud.
+- In SQL server, learnt about Backups and restoration.
+- Backed up a database and restored it after deleting.
+- Learnt about Database snapshot.
+- Attended session and Worked on Pipeline creation in ADF.
+- Transformed data from Azure SQL server and Azure Blob storage.
+- Used triggers and debug to run the pipelines
+
+What am I planning to achieve tomorrow.
+- Start working on MiraDBSharp KT.
+- Work on SQL server Adminstration and security.
+- Learn about transforming data from various data sources.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Power BI.
+- Database Administration.
+- Azure Data Factory.
