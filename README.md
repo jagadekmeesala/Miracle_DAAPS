@@ -807,3 +807,25 @@ Use Case/Business Knowledge acquired
 - Power BI.
 - Database Administration.
 - Azure Data Factory.
+
+### Day-4 - Jan 23rd, 2024 - Thursday.
+What did I achieve today
+- Delivered reverse KT on Azure Data Facory to teammates.
+- Started documenting my learnings for future reference.
+- Researched about triggers in Azure Data Factory.
+- Worked on Documentation of Database Administration learnings.
+- Learnt about Database snapshot and ways to recover database in SQL Server.
+- Learnt about installation of SQL server 2022 along with its requirements.
+- Created personal training document for Python training - Dataset Generation task.
+
+What am I planning to achieve tomorrow.
+- Attend Azure Data factory KT.
+- Work on Backup and restoration in SQL Server.
+- Start working on Azure Data factory course on udemy.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Database Administration.
+- Azure Data Factory.
