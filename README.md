@@ -823,7 +823,7 @@ What am I planning to achieve tomorrow.
 - Work on Backup and restoration in SQL Server.
 - Start working on Azure Data factory course on udemy.
 
-Blockers
+Blockers 
 - None.
 
 Use Case/Business Knowledge acquired
