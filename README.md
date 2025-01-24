@@ -829,3 +829,25 @@ Blockers
 Use Case/Business Knowledge acquired
 - Database Administration.
 - Azure Data Factory.
+
+### Day-5 - Jan 24th, 2024 - Friday.
+What did I achieve today
+- Created Power BI documentation for the learnings I have got from Udemy course and training.
+- Researched and learnt about basic topics in SQL and PL/SQL.
+- Attempted SQL evaluation and started working on SQL and PL/SQL.
+- Attended meeting to update about Dataset generation task.
+- Worked on Database administration and prepared documentation.
+
+What am I planning to achieve tomorrow.
+- Complete users and logins plus backup and restore concept in Database Administration.
+- Work on MiraDBSHARp KT in terms of Power BI.
+- Start working on Insrurance domain dataset for PoC
+
+Blockers 
+- None.
+
+Use Case/Business Knowledge acquired
+- Database Administration.
+- Azure Data Factory.
+- Power BI.
+- Dataset generation PoC.
