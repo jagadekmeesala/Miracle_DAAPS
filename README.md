@@ -851,3 +851,31 @@ Use Case/Business Knowledge acquired
 - Azure Data Factory.
 - Power BI.
 - Dataset generation PoC.
+
+
+## Week-10 / 35
+
+### Day-1 - Jan 27th, 2024 - Monday.
+What did I achieve today
+- Worked on Azure Data Factory documentation.
+- Attended KT session on Azure Data Factory.
+- Created a pipeline to learn about Storage based triggers.
+- Attended SQL tutorial taken by Prasanth Bongu.
+- Learnt about Normalisations in DBMS.
+- Attended KT session by Vijay on Power BI - miraDBSHARp
+- Attended status update call on Dataset genenration.
+
+What am I planning to achieve tomorrow
+- Work on data analysis of miraDBSHARp from Database.
+- Start Azure Data factory course in Udemy.
+- Work on learning integration runtimes in Azure Data Factory.
+- Update dataset generation sheet.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Power BI - MiraDBSHARp
+- Database Development - SQL.
+- Dataset Generation.
+- Azure Data Factory.
