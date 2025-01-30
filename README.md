@@ -906,7 +906,7 @@ Use Case/Business Knowledge acquired
 - Dataset Generation.
 - Azure Data Factory.
 
-### Day-3 - Jan 28th, 2024 - Monday.
+### Day-3 - Jan 29th, 2024 - Monday.
 What did I achieve today
 - Worked on Backup and restoration in Database administration.
 - Learned about users, roles and logins in SQL server.
@@ -920,6 +920,32 @@ What am I planning to achieve tomorrow
 - Complete SQL tasks in SQL server.
 - Complete working on attributes and tables finalisation.
 - Work on DAX in Power BI for miraDBSHARp.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Power BI - MiraDBSHARp
+- Database Development - SQL.
+- Azure Data Factory.
+- Database Administration
+
+### Day-4 - Jan 30th, 2024 - Monday.
+What did I achieve today
+- Worked on Self-hosted integration service in Azure Data Factory.
+- Learnt about data flows in Pipeline creation.
+- Create a pipeline that transfers data from on-prem to on-prem and cloud to on-prem and vice versa.
+- Attended SQL Session and revised previous topics in SQL.
+- Learnt about SQL functions, sub queries, Advanced SQL queries like with, pivot and so on.
+- Created a DAX in Power BI to get count of databases.
+- Revised backup and restores, users and logins in Database Administration.
+
+What am I planning to achieve tomorrow
+- Create an on-prem to on-prem pipeline in ADF.
+- Cover few chapters in DBA.
+- Complete a section in Azure Course.
+- Work on SQL and PL/SQL tasks.
+- Understand data for MiraDBSHARp.
 
 Blockers
 - None.
