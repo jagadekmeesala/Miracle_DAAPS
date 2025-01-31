@@ -880,7 +880,7 @@ Use Case/Business Knowledge acquired
 - Dataset Generation.
 - Azure Data Factory.
 
-### Day-2 - Jan 28th, 2024 - Monday.
+### Day-2 - Jan 28th, 2024 - Tuesday.
 What did I achieve today
 - Loaded data from SQL Server to analyse and transform the data.
 - Understood how the data is gathered and the relationships between tables.
@@ -906,7 +906,7 @@ Use Case/Business Knowledge acquired
 - Dataset Generation.
 - Azure Data Factory.
 
-### Day-3 - Jan 29th, 2024 - Monday.
+### Day-3 - Jan 29th, 2024 - Wednesday.
 What did I achieve today
 - Worked on Backup and restoration in Database administration.
 - Learned about users, roles and logins in SQL server.
@@ -930,7 +930,7 @@ Use Case/Business Knowledge acquired
 - Azure Data Factory.
 - Database Administration
 
-### Day-4 - Jan 30th, 2024 - Monday.
+### Day-4 - Jan 30th, 2024 - Thursday.
 What did I achieve today
 - Worked on Self-hosted integration service in Azure Data Factory.
 - Learnt about data flows in Pipeline creation.
@@ -952,6 +952,30 @@ Blockers
 
 Use Case/Business Knowledge acquired
 - Power BI - MiraDBSHARp
+- Database Development - SQL.
+- Azure Data Factory.
+- Database Administration
+
+### Day-5 - Jan 31st, 2024 - Friday.
+What did I achieve today
+- Created data copy pipeline in Azure data factory that transfers data from on-prem to cloud and vice versa.
+- Tested on-prem to on-prem data transfer without need to create a schema in the database.
+- Explored the functionality of Self-hosted integration runtime.
+- Worked on Azure course on Udemy and completed learning its services.
+- Working on SQL excercises of past 3 days.
+- Completed Activity monitoring in SQL server.
+- Starting to prepare interview questions for all the technologies that I am learning.
+
+What am I planning to achieve tomorrow
+- Start working on MiraDBSHARp report in Power BI.
+- Start learning PL/SQL and solve real world scenarios from it.
+- Learn about data flows and change data capture in Azure Data Factory.
+- Progress in Azure course in Udemy.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
 - Database Development - SQL.
 - Azure Data Factory.
 - Database Administration
