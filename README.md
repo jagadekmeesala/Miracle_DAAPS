@@ -979,3 +979,31 @@ Use Case/Business Knowledge acquired
 - Database Development - SQL.
 - Azure Data Factory.
 - Database Administration
+
+
+## Week-11 / 36
+
+### Day-4 - Feb 6th, 2024 - Monday.
+What did I achieve today
+- Attended update meeting on dataset generation task.
+- Worked on Data model and validated tables.
+- Attended KT of Change Data Capture in Azure Data Factory.
+- Doing practical on Change data factory.
+- Started working on Azure SQL databases in Azure Course on Udemy.
+- Worked on a usecase in Power BI, where I have to display data in the table using various KPIs
+- Assisted trainees in SQL training.
+
+What am I planning to achieve tomorrow
+- Continue on Azure Data Factory course on SQL databases.
+- Work on Change data capture in Azure Data Factory.
+- Complete data model and resolve issue of dataset generation task.
+- Start working on Database administration.
+- Assist ITG trainees in SQL training.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Dataset generation task.
+- Azure Data Factory.
+- Power BI
