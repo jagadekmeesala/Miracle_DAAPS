@@ -983,6 +983,9 @@ Use Case/Business Knowledge acquired
 
 ## Week-11 / 36
 
+### Day-1 to 3 - Feb 3rd, 2024 - Monday to Feb 5th, 2024 - Wednesday.
+On leave for M.Tech 1st Sem exams.
+
 ### Day-4 - Feb 6th, 2024 - Monday.
 What did I achieve today
 - Attended update meeting on dataset generation task.
