@@ -986,7 +986,7 @@ Use Case/Business Knowledge acquired
 ### Day-1 to 3 - Feb 3rd, 2024 - Monday to Feb 5th, 2024 - Wednesday.
 On leave for M.Tech 1st Sem exams.
 
-### Day-4 - Feb 6th, 2024 - Monday.
+### Day-4 - Feb 6th, 2024 - Thursday.
 What did I achieve today
 - Attended update meeting on dataset generation task.
 - Worked on Data model and validated tables.
@@ -1010,3 +1010,24 @@ Use Case/Business Knowledge acquired
 - Dataset generation task.
 - Azure Data Factory.
 - Power BI
+
+### Day-5 - Feb 7th, 2024 - Friday.
+What did I achieve today
+- Created Azure SQL Server, database and inserted data.
+- Created change data capture in Azure data factory.
+- Learnt about dataflows and created a dataflow that joins data from 2 sources(Azure SQL databases).
+- To run that dataflow, I have created pipeline.
+- I have worked on database administration - Activity monitor.
+- Assisted ITG trainees in SQL training.
+
+What am I planning to achieve tomorrow
+- Create conditional split in dataflows in Azure data factory.
+- Compelte SQL Agent and services in database administration.
+- Complete Azure Course on Udemy.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Azure Data Factory.
+- Database Administration.
