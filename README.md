@@ -1031,3 +1031,14 @@ Blockers
 Use Case/Business Knowledge acquired
 - Azure Data Factory.
 - Database Administration.
+
+
+## Week-12 / 37
+
+### Day-1 to 5 - Feb 10th, 2024 - Monday to Feb 14th, 2024 - Friday.
+On leave for M.Tech 1st Sem exams.
+
+
+## Week-13 / 38
+
+### Day-1 - Feb 17th, 2024 - Monday.
