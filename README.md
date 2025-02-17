@@ -1042,3 +1042,22 @@ On leave for M.Tech 1st Sem exams.
 ## Week-13 / 38
 
 ### Day-1 - Feb 17th, 2024 - Monday.
+What did I achieve today
+- Created Azure SQL Server, database and inserted data.
+- Created change data capture in Azure data factory.
+- Learnt about dataflows and created a dataflow that joins data from 2 sources(Azure SQL databases).
+- To run that dataflow, I have created pipeline.
+- I have worked on database administration - Activity monitor.
+- Assisted ITG trainees in SQL training.
+
+What am I planning to achieve tomorrow
+- Create conditional split in dataflows in Azure data factory.
+- Compelte SQL Agent and services in database administration.
+- Complete Azure Course on Udemy.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Azure Data Factory.
+- Database Administration.
