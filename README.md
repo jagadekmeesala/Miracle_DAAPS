@@ -1043,21 +1043,21 @@ On leave for M.Tech 1st Sem exams.
 
 ### Day-1 - Feb 17th, 2024 - Monday.
 What did I achieve today
-- Created Azure SQL Server, database and inserted data.
-- Created change data capture in Azure data factory.
-- Learnt about dataflows and created a dataflow that joins data from 2 sources(Azure SQL databases).
-- To run that dataflow, I have created pipeline.
-- I have worked on database administration - Activity monitor.
-- Assisted ITG trainees in SQL training.
+- Completed Normalization concept for database design.
+- Completed Security in SQL Server Management.
+- Learnt about Performance Tuning & Query Optimization in SQL Server.
+- SARGability in SQL Server.
+- Backup and restore systems in SQL Server.
+- Started working on MiraDBSHARp report in Power BI.
 
 What am I planning to achieve tomorrow
-- Create conditional split in dataflows in Azure data factory.
-- Compelte SQL Agent and services in database administration.
-- Complete Azure Course on Udemy.
+- Create DAX in Power BI report.
+- Start working on Agents for job scheduling in SQL Server.
+- Learn about Disaster Recovery plan in SQL Server.
 
 Blockers
 - None.
 
 Use Case/Business Knowledge acquired
-- Azure Data Factory.
 - Database Administration.
+- Power BI.
