@@ -1067,14 +1067,17 @@ What did I achieve today
 - Learnt about DB Maintenance plan in SQL Server.
 - Learnt about Performance tuning and Query optmization practically.
 - Researched about the basic requirements that are needed to install SQL server.
-- 
+- Learnt about Replications in SQL server.
+- Did Monitoring using Activity monitor in SQL server.
+- Worked on SQL Server Agents and scheduled a job using them
+- Learnt about Distributor, Publisher and Subscriber.
 - Analysed MiraDBSHARp report and started working on replication of it.
 
 What am I planning to achieve tomorrow
 - Create DAX for miraDBSHARp in Power BI report.
-- Analyse entire data and work on data modelling in Power Query editor
-- Start working on Agents for job scheduling in SQL Server.
-- Learn about Disaster Recovery plan in SQL Server.
+- Analyse entire data and work on data modelling in Power Query editor.
+- Work on ADF Course in Udemy.
+- Learn concepts of Azure Data Factory theoretically.
 
 Blockers
 - None.
@@ -1082,3 +1085,4 @@ Blockers
 Use Case/Business Knowledge acquired
 - Database Administration.
 - Power BI.
+0
