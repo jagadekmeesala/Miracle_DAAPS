@@ -1061,3 +1061,24 @@ Blockers
 Use Case/Business Knowledge acquired
 - Database Administration.
 - Power BI.
+
+### Day-2 - Feb 18th, 2024 - Tuesday.
+What did I achieve today
+- Learnt about DB Maintenance plan in SQL Server.
+- Learnt about Performance tuning and Query optmization practically.
+- Researched about the basic requirements that are needed to install SQL server.
+- 
+- Analysed MiraDBSHARp report and started working on replication of it.
+
+What am I planning to achieve tomorrow
+- Create DAX for miraDBSHARp in Power BI report.
+- Analyse entire data and work on data modelling in Power Query editor
+- Start working on Agents for job scheduling in SQL Server.
+- Learn about Disaster Recovery plan in SQL Server.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Database Administration.
+- Power BI.
