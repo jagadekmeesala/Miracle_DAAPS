@@ -1093,7 +1093,7 @@ What did I achieve today
 - Designing Home page in power BI.
 - Learnt about Azure and the services it is providing related to Data Engineer.
 - Completed a section in Udemy course on SQL Database.
-
+ 
 What am I planning to achieve tomorrow
 - Complete Home page desining for MiraDBSHARp.
 - Do hands-on about Azure SQL Database.
