@@ -1085,4 +1085,23 @@ Blockers
 Use Case/Business Knowledge acquired
 - Database Administration.
 - Power BI.
-0
+
+### Day-3 - Feb 19th, 2024 - Wednesday.
+What did I achieve today
+- Loaded data into Power BI and started analysing the tables and their usages.
+- Written DAX for visuals in Home Page.
+- Designing Home page in power BI.
+- Learnt about Azure and the services it is providing related to Data Engineer.
+- Completed a section in Udemy course on SQL Database.
+
+What am I planning to achieve tomorrow
+- Complete Home page desining for MiraDBSHARp.
+- Do hands-on about Azure SQL Database.
+- Start learning about Azure Synapse and Data warehouse.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Data Engineering using Azure - Udemy Course
+- Power BI.
