@@ -1105,3 +1105,62 @@ Blockers
 Use Case/Business Knowledge acquired
 - Data Engineering using Azure - Udemy Course
 - Power BI.
+
+### Day-4 - Feb 20th, 2024 - Thursday.
+What did I achieve today
+1. Azure Data Factory
+Problem Statement - There is a scenario where daily customers data will be stored into the blob storage using Storage Account in Azure. For that data that has been coming in, we have to create a SQL database and only store the changes that were made by the customers.
+
+Solution Implemented
+Azure offers various features like Azure Data Factory to manage the movement and monitor changes in the data. Data flows, Data movement activities, Change Data Capture and many more are some examples where we can use it to monitor the data.
+I have used Azure Data Factory.
+That datafactory I have created 2 linked services, one from Azure blob storage and one from SQL server. Based on the linked services I have created datasets that store the data from the database and blob.
+Created a data flow that consists of 2 sources one is from blob storage and other is the SQL database. Next I have added lookup transformation that checks the data from 2 sources and compares it based on the condition that we have. Our condition here is == based on the CustomerID column from 2 sources.
+Next is the alter row condition that alters the data. I.e if the data in blob storage (file) has new data that has been added the alter row condition also inserts the row in the database.
+Once we validate for errors and click run, the database gets populated with the data for the first time and from next time the database will be having the data that were added newly in to Azure blob storage (i.e file)
+
+Set Up Details
+I have utilized Azure Storage Accounts and created a blob container to store the files that were incoming everyday and the name of the file that we upload in the blob storage is the same everyday as we have to overwrite the data that was there in the container earlier.
+I have created a SQL server and created a database from it. 
+Connected to that database using SQL Server Management Studio (SSMS) and have created a table and its schema to store the data.
+I have created a data factory for capturing and monitoring the data.
+
+Outcome
+Database has been capturing the data that was added newly into the blob storage.
+ 
+What am I planning to achieve tomorrow
+- Work on an advanced level problem in ADF(Update the changes in the data into the database based on the updates or insertion of data in the blob storage - file)
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Azure Data Factory
+
+### Day-5 - Feb 21st, 2024 - Friday.
+What did I achieve today
+1. Power BI
+- Designed home page for MiraDBSHARp.
+- Used appropriate visualizations depending on the data.
+- Worked on writing DAX for remaining pages
+
+2. Azure Data Factory
+- Understood about what all are the roblems that can be solved using ADF.
+- Work on advanced concepts in ADF.
+ 
+What am I planning to achieve tomorrow
+- Write DAX functions specific to servers
+- Work on enhancing the visualizations.
+- Solve more complex problems in data engineering using ADF
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Power BI.
+- Azure Data Factory.
+
+
+## Week-14 / 39
+
+### Day-1 - Feb 24th, 2024 - Monday.
