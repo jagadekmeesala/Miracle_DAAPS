@@ -1162,7 +1162,7 @@ Use Case/Business Knowledge acquired
 
 
 ## Week-14 / 39
-
+ 
 ### Day-1 - Feb 24th, 2024 - Monday.
 What did I achieve today
 - Learnt about Azure SQL Database and its types.
