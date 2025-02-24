@@ -1164,3 +1164,22 @@ Use Case/Business Knowledge acquired
 ## Week-14 / 39
 
 ### Day-1 - Feb 24th, 2024 - Monday.
+What did I achieve today
+- Learnt about Azure SQL Database and its types.
+- Learnt about differences, Advantages and disadvantages of Azure SQL Database and its types
+- Practiced creating SQL database, server and connecting to SSMS.
+- Performed operations in SSMS to interact with Azure SQL database.
+- Created documentation on Azure SQL Database.
+- Learnt about logs and auditing in Azure SQL database.
+ 
+What am I planning to achieve tomorrow
+- Learn DBA in Azure SQL Database.
+- Work on Managed Instance in Azure.
+- Know about Azure VM SQL server
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Azure SQL Database
+- Azure Data Factory - Data Engineering
