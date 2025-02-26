@@ -1205,3 +1205,25 @@ Blockers
 Use Case/Business Knowledge acquired
 - Azure SQL Database.
 - Automation resource in Azure.
+
+### Day-3 - Feb 26th, 2024 - Wednesday. 
+What did I achieve today
+- Learnt about Backup and Restoring in Azure SQL Database.
+- Learnt about Point in Time recovery and Long time retention.
+- Learnt about Monitoring and alerts in Azure SQL Database.
+- Created failover groups in Azure SQL Database.
+- Completed KT of MiraDBSHARp from Vijay.
+- Started desiging DAX Functions.
+ 
+What am I planning to achieve tomorrow
+- Learn about configurations of server in Azure SQL Server.
+- Learn and practice creation of runbooks
+- Work on a scenario in Azure SQL Database(Like backup, restore, alerts)
+- Complete DAX functions for home page in Power BI 
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Azure SQL Database.
+- Power BI
