@@ -1227,3 +1227,31 @@ Blockers
 Use Case/Business Knowledge acquired
 - Azure SQL Database.
 - Power BI
+
+### Day-3 - Feb 26th, 2024 - Wednesday. 
+What did I achieve today
+- Did alerts by sending an email in Azure SQL Database.
+- Created failover groups in Azure SQL Database.
+- Preparing for demo of MiraDBSHARp.
+- Worked on understanding python script of miraDBSHARp.
+- Understood SQL Script for retrieving data.
+- Gathered requirement from Harish for dataset generation.
+- Researched about healthcare domain and finalized the tables, columns and their relations.
+- Working on Heart and Cancer realted diseases for data generation of healthcare domain.
+- Worked on creating schema and ER diagram for healthcare domain.
+
+What am I planning to achieve tomorrow
+- Prepare PPT for JAM session on topic - "Robots and Us"
+- Work on data insertion of healthcare domain in dataset generation.
+- Create Python script for tables, schema creation and relationship establishment.
+- Work on Python Script for data insertion of healthcare domain.
+- Revise for demo of MiraDBSHARp.
+- Work on automation resource in Azure
+  
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Azure SQL Database.
+- Power BI
+- Dataset Generation.
