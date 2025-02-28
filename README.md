@@ -1228,7 +1228,7 @@ Use Case/Business Knowledge acquired
 - Azure SQL Database.
 - Power BI
 
-### Day-3 - Feb 26th, 2024 - Wednesday. 
+### Day-4 - Feb 27th, 2024 - Thursday. 
 What did I achieve today
 - Did alerts by sending an email in Azure SQL Database.
 - Created failover groups in Azure SQL Database.
@@ -1254,4 +1254,28 @@ Blockers
 Use Case/Business Knowledge acquired
 - Azure SQL Database.
 - Power BI
+- Dataset Generation.
+
+
+### Day-5 - Feb 28th, 2024 - Friday. 
+What did I achieve today
+- Worked on designing data schema of Healthcare dataset.
+- Worked on Python Script to create schema for the dataset.
+- Completed SQL Script for Healthcare dataset.
+- Sent alerts to specified mail id based on signals and creating axtion groups.
+- While sending notificactions, I have also used action groups to do next task if I encounter any error.
+- Analyzed the tasks that were assigned to me.
+
+What am I planning to achieve tomorrow
+- Work on ETL tasks that were assigned to me.
+- Design python script to insert data into tables.
+- Make python script run by having user defined count to insert number of records.
+- Create a run book to rebuild index and gather statistics.
+  
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Azure SQL Database.
+- Azure Data Factory
 - Dataset Generation.
