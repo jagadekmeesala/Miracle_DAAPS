@@ -570,7 +570,7 @@ Use Case/Business Knowledge acquired
 
 ## Week-7 / 32
 
-### Day-1 - Jan 6th, 2024 - Monday.
+### Day-1 - Jan 6th, 2025 - Monday.
 What did I achieve today
 - Cleaned up data for Sales report dashboard using Power BI.
 - Added slicers for HR Analytics dashboard.
@@ -592,13 +592,13 @@ Use Case/Business Knowledge acquired
 - Power BI.
 - Power Automate.
 
-### Day-2 - Jan 7th, 2024 - Tuesday.
+### Day-2 - Jan 7th, 2025 - Tuesday.
 - Sankranthi Celebrations.
 
-### Day-3 - Jan 8th, 2024 - Wednesday.
+### Day-3 - Jan 8th, 2025 - Wednesday.
 - Sankranthi Celebrations.
 
-### Day-4 - Jan 9th, 2024 - Thursday.
+### Day-4 - Jan 9th, 2025 - Thursday.
 What did I achieve today
 - Worked on Power automate.
 - Automated email sending when a new email has been added to sheets.
@@ -621,7 +621,7 @@ Use Case/Business Knowledge acquired
 - Power Automate.
 - Microsoft Fabric.
 
-### Day-5 - Jan 10th, 2024 - Friday.
+### Day-5 - Jan 10th, 2025 - Friday.
 What did I achieve today
 - Enhanced the PPT for Dataset generation POC.
 - Presneted PPT in JAM session.
@@ -646,10 +646,10 @@ Use Case/Business Knowledge acquired
 
 ## Week-8 / 33
 
-### Day-1 - Jan 13th, 2024 - Monday.
+### Day-1 - Jan 13th, 2025 - Monday.
 Leave
 
-### Day-2 - Jan 14th, 2024 - Tuesday.
+### Day-2 - Jan 14th, 2025 - Tuesday.
 What did I achieve today
 - Worked on Microsoft Fabric for creating pipelines.
 - Researched about Big data analytics.
@@ -671,7 +671,7 @@ Use Case/Business Knowledge acquired
 - Big Data Analytics.
 - Apache Spark.
 
-### Day-3 - Jan 15th, 2024 - Wednesday.
+### Day-3 - Jan 15th, 2025 - Wednesday.
 What did I achieve today
 - Learnt PL/SQL from tutorials point.
 - Explored concepts of Big data analytics and realtime projects on it from tutorials point.
@@ -691,7 +691,7 @@ Use Case/Business Knowledge acquired
 - Big Data Analytics.
 - Power BI.
 
-### Day-4 - Jan 16th, 2024 - Thursday.
+### Day-4 - Jan 16th, 2025 - Thursday.
 What did I achieve today
 - Learnt PL/SQL procedures from youtube and w3 schools.
 - Worked on existing database for practicing PL/SQL.
@@ -711,7 +711,7 @@ Use Case/Business Knowledge acquired
 - PL/SQL.
 - Power BI.
 
-### Day- 5 - Jan 17th, 2024 - Friday.
+### Day- 5 - Jan 17th, 2025 - Friday.
 What did I achieve today
 - Read articles about Big Data Analytics from IBM.
 - Researched about tools for Big data analytics.
@@ -737,7 +737,7 @@ Use Case/Business Knowledge acquired
 
 ## Week-9 / 34
 
-### Day-1 - Jan 20th, 2024 - Monday.
+### Day-1 - Jan 20th, 2025 - Monday.
 What did I achieve today
 - Worked on DAX functions, Power query in Power BI.
 - Learnt about different data sources and data ingestion types in Power BI.
@@ -760,7 +760,7 @@ Use Case/Business Knowledge acquired
 - Power BI
 - Database Administration.
 
-### Day-2 - Jan 21st, 2024 - Tuesday.
+### Day-2 - Jan 21st, 2025 - Tuesday.
 What did I achieve today
 - Completed iterative functions, rank functions and what if analysis.
 - Researched about drill mechanism in Power BI - Drill up, drill down, drill through.
@@ -783,7 +783,7 @@ Use Case/Business Knowledge acquired
 - Database Administration.
 - Azure Data Factory.
 
-### Day-3 - Jan 22nd, 2024 - Wednesday.
+### Day-3 - Jan 22nd, 2025 - Wednesday.
 What did I achieve today
 - Watched tutorials on creating a power BI service.
 - Learnt about Power BI desktop, pro and premium.
@@ -808,7 +808,7 @@ Use Case/Business Knowledge acquired
 - Database Administration.
 - Azure Data Factory.
 
-### Day-4 - Jan 23rd, 2024 - Thursday.
+### Day-4 - Jan 23rd, 2025 - Thursday.
 What did I achieve today
 - Delivered reverse KT on Azure Data Facory to teammates.
 - Started documenting my learnings for future reference.
@@ -830,7 +830,7 @@ Use Case/Business Knowledge acquired
 - Database Administration.
 - Azure Data Factory.
 
-### Day-5 - Jan 24th, 2024 - Friday.
+### Day-5 - Jan 24th, 2025 - Friday.
 What did I achieve today
 - Created Power BI documentation for the learnings I have got from Udemy course and training.
 - Researched and learnt about basic topics in SQL and PL/SQL.
@@ -855,7 +855,7 @@ Use Case/Business Knowledge acquired
 
 ## Week-10 / 35
 
-### Day-1 - Jan 27th, 2024 - Monday.
+### Day-1 - Jan 27th, 2025 - Monday.
 What did I achieve today
 - Worked on Azure Data Factory documentation.
 - Attended KT session on Azure Data Factory.
@@ -880,7 +880,7 @@ Use Case/Business Knowledge acquired
 - Dataset Generation.
 - Azure Data Factory.
 
-### Day-2 - Jan 28th, 2024 - Tuesday.
+### Day-2 - Jan 28th, 2025 - Tuesday.
 What did I achieve today
 - Loaded data from SQL Server to analyse and transform the data.
 - Understood how the data is gathered and the relationships between tables.
@@ -906,7 +906,7 @@ Use Case/Business Knowledge acquired
 - Dataset Generation.
 - Azure Data Factory.
 
-### Day-3 - Jan 29th, 2024 - Wednesday.
+### Day-3 - Jan 29th, 2025 - Wednesday.
 What did I achieve today
 - Worked on Backup and restoration in Database administration.
 - Learned about users, roles and logins in SQL server.
@@ -930,7 +930,7 @@ Use Case/Business Knowledge acquired
 - Azure Data Factory.
 - Database Administration
 
-### Day-4 - Jan 30th, 2024 - Thursday.
+### Day-4 - Jan 30th, 2025 - Thursday.
 What did I achieve today
 - Worked on Self-hosted integration service in Azure Data Factory.
 - Learnt about data flows in Pipeline creation.
@@ -956,7 +956,7 @@ Use Case/Business Knowledge acquired
 - Azure Data Factory.
 - Database Administration
 
-### Day-5 - Jan 31st, 2024 - Friday.
+### Day-5 - Jan 31st, 2025 - Friday.
 What did I achieve today
 - Created data copy pipeline in Azure data factory that transfers data from on-prem to cloud and vice versa.
 - Tested on-prem to on-prem data transfer without need to create a schema in the database.
@@ -983,10 +983,10 @@ Use Case/Business Knowledge acquired
 
 ## Week-11 / 36
 
-### Day-1 to 3 - Feb 3rd, 2024 - Monday to Feb 5th, 2024 - Wednesday.
+### Day-1 to 3 - Feb 3rd, 2025 - Monday to Feb 5th, 2025 - Wednesday.
 On leave for M.Tech 1st Sem exams.
 
-### Day-4 - Feb 6th, 2024 - Thursday.
+### Day-4 - Feb 6th, 2025 - Thursday.
 What did I achieve today
 - Attended update meeting on dataset generation task.
 - Worked on Data model and validated tables.
@@ -1011,7 +1011,7 @@ Use Case/Business Knowledge acquired
 - Azure Data Factory.
 - Power BI
 
-### Day-5 - Feb 7th, 2024 - Friday.
+### Day-5 - Feb 7th, 2025 - Friday.
 What did I achieve today
 - Created Azure SQL Server, database and inserted data.
 - Created change data capture in Azure data factory.
@@ -1035,13 +1035,13 @@ Use Case/Business Knowledge acquired
 
 ## Week-12 / 37
 
-### Day-1 to 5 - Feb 10th, 2024 - Monday to Feb 14th, 2024 - Friday.
+### Day-1 to 5 - Feb 10th, 2025 - Monday to Feb 14th, 2025 - Friday.
 On leave for M.Tech 1st Sem exams.
 
 
 ## Week-13 / 38
 
-### Day-1 - Feb 17th, 2024 - Monday.
+### Day-1 - Feb 17th, 2025 - Monday.
 What did I achieve today
 - Completed Normalization concept for database design.
 - Completed Security in SQL Server Management.
@@ -1062,7 +1062,7 @@ Use Case/Business Knowledge acquired
 - Database Administration.
 - Power BI.
 
-### Day-2 - Feb 18th, 2024 - Tuesday.
+### Day-2 - Feb 18th, 2025 - Tuesday.
 What did I achieve today
 - Learnt about DB Maintenance plan in SQL Server.
 - Learnt about Performance tuning and Query optmization practically.
@@ -1086,7 +1086,7 @@ Use Case/Business Knowledge acquired
 - Database Administration.
 - Power BI.
 
-### Day-3 - Feb 19th, 2024 - Wednesday.
+### Day-3 - Feb 19th, 2025 - Wednesday.
 What did I achieve today
 - Loaded data into Power BI and started analysing the tables and their usages.
 - Written DAX for visuals in Home Page.
@@ -1106,7 +1106,7 @@ Use Case/Business Knowledge acquired
 - Data Engineering using Azure - Udemy Course
 - Power BI.
 
-### Day-4 - Feb 20th, 2024 - Thursday.
+### Day-4 - Feb 20th, 2025 - Thursday.
 What did I achieve today
 1. Azure Data Factory
 Problem Statement - There is a scenario where daily customers data will be stored into the blob storage using Storage Account in Azure. For that data that has been coming in, we have to create a SQL database and only store the changes that were made by the customers.
@@ -1137,7 +1137,7 @@ Blockers
 Use Case/Business Knowledge acquired
 - Azure Data Factory
 
-### Day-5 - Feb 21st, 2024 - Friday.
+### Day-5 - Feb 21st, 2025 - Friday.
 What did I achieve today
 1. Power BI
 - Designed home page for MiraDBSHARp.
@@ -1163,7 +1163,7 @@ Use Case/Business Knowledge acquired
 
 ## Week-14 / 39
  
-### Day-1 - Feb 24th, 2024 - Monday. 
+### Day-1 - Feb 24th, 2025 - Monday. 
 What did I achieve today
 - Learnt about Azure SQL Database and its types.
 - Learnt about differences, Advantages and disadvantages of Azure SQL Database and its types
@@ -1184,7 +1184,7 @@ Use Case/Business Knowledge acquired
 - Azure SQL Database
 - Azure Data Factory - Data Engineering
 
-### Day-2 - Feb 25th, 2024 - Tuesday. 
+### Day-2 - Feb 25th, 2025 - Tuesday. 
 What did I achieve today
 - Learnt about automation resource in Azure.
 - Did hands-on of runbooks in Azure for automating jobs.
@@ -1206,7 +1206,7 @@ Use Case/Business Knowledge acquired
 - Azure SQL Database.
 - Automation resource in Azure.
 
-### Day-3 - Feb 26th, 2024 - Wednesday. 
+### Day-3 - Feb 26th, 2025 - Wednesday. 
 What did I achieve today
 - Learnt about Backup and Restoring in Azure SQL Database.
 - Learnt about Point in Time recovery and Long time retention.
@@ -1228,7 +1228,7 @@ Use Case/Business Knowledge acquired
 - Azure SQL Database.
 - Power BI
 
-### Day-4 - Feb 27th, 2024 - Thursday. 
+### Day-4 - Feb 27th, 2025 - Thursday. 
 What did I achieve today
 - Did alerts by sending an email in Azure SQL Database.
 - Created failover groups in Azure SQL Database.
@@ -1257,7 +1257,7 @@ Use Case/Business Knowledge acquired
 - Dataset Generation.
 
 
-### Day-5 - Feb 28th, 2024 - Friday. 
+### Day-5 - Feb 28th, 2025 - Friday. 
 What did I achieve today
 - Worked on designing data schema of Healthcare dataset.
 - Worked on Python Script to create schema for the dataset.
@@ -1279,3 +1279,32 @@ Use Case/Business Knowledge acquired
 - Azure SQL Database.
 - Azure Data Factory
 - Dataset Generation.
+
+
+
+## Week-15 / 40
+ 
+### Day-1 - Mar 03rd, 2025 - Monday. 
+What did I achieve today
+- Worked on learning about Azure Logic Apps.
+- Created a basic trigger to perform mail automation using Logic apps.
+- Worked on building pipelines in Azure Data Factory.
+-  Created data flow for metadata in Azure.
+-  Prepared a PPT on topic Robots and Us for JAM Session.
+-  Created python script for Schema creation.
+-  Run the Python script to create Schema in SQL Server.
+
+What am I planning to achieve tomorrow
+- Take up a scenario and perform trigger using Azure Logic apps.
+- Complete working on tasks in ADF.
+- Get PPT verified for JAM Session.
+- Work on Data insertion script in Python
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Azure Logic Apps
+- Azure Data Factory - ETL Tasks
+- Dataset Generation using SQL and Python
+- JAM Session
