@@ -1308,3 +1308,24 @@ Use Case/Business Knowledge acquired
 - Azure Data Factory - ETL Tasks
 - Dataset Generation using SQL and Python
 - JAM Session
+
+### Day-2 - Mar 04th, 2025 - Tuesday. 
+What did I achieve today
+- Worked on Azure Data Factory - Data deduplication.
+- Used Dataflow - Aggeregation and pipelines to do data deduplication.
+- Worked on type conversion of data in ADF.
+- Edited PPT for better understanding of audience.
+- Inserted data into a few tables in Healthcare sector.
+
+What am I planning to achieve tomorrow
+- Complete Data type conversion in ADF.
+- Work on editing PPT and complete the changes.
+- Work on data insertion into healthcare domain.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Azure Data Factory - ETL Tasks
+- Dataset Generation using SQL and Python
+- JAM Session
