@@ -1332,13 +1332,34 @@ Use Case/Business Knowledge acquired
 
 ### Day-3 - Mar 05th, 2025 - Wednesday. 
 What did I achieve today
-- 
+- Edited PPT for JAM session and sent for verification.
+- Azure Data Factory - ETL Task
+  Problem statement
+  - Putting API data into Database Table.
 
+  Solution
+  - Create a pipeline in Azure Data Factory.
+  - Perform Copy data activity.
+ 
+  Output
+  - Data should be inserted into the table
+  - We can chose to create schema in the SQL table to insert data or we can select auto-create option.
+
+- Researched about topics to be worked on in Azure SQL Database DBA.
+- Created a tracker to maintain all the tasks to work on.
+  
 What am I planning to achieve tomorrow
-- 
+- Get PPT verified to present in JAM session
+- Resovle the Azure Acoount problem
+- Start working on other Azure Data Factory - ETL tasks
+- Start working on Azure SQL Database DBA tasks practically.
+- Complete Backup and restore processes.
 
 Blockers
-- None.
+- Azure Account has been deleted.
+- Need to request a new Azure account.
 
 Use Case/Business Knowledge acquired
-- 
+- Azure Data Factory
+- JAM session
+- Azure SQL Database.
