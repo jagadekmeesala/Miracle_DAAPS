@@ -1329,3 +1329,16 @@ Use Case/Business Knowledge acquired
 - Azure Data Factory - ETL Tasks
 - Dataset Generation using SQL and Python
 - JAM Session
+
+### Day-3 - Mar 05th, 2025 - Wednesday. 
+What did I achieve today
+- 
+
+What am I planning to achieve tomorrow
+- 
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- 
