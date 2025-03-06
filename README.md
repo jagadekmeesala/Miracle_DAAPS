@@ -1363,3 +1363,24 @@ Use Case/Business Knowledge acquired
 - Azure Data Factory
 - JAM session
 - Azure SQL Database.
+
+### Day-3 - Mar 05th, 2025 - Wednesday. 
+What did I achieve today
+- Worked on Schema Correction in Healthcare domain
+- Created logic to insert data into the database.
+- Inserted data into Database.
+- Working on file data transfer into Tables.
+- Completed basics of Azure SQL Datbase DBA.
+  
+What am I planning to achieve tomorrow
+- Get Creation and Insertion script verified.
+- Complete working on file data transfer into Tables.
+- Do practical of Azure SQL Datbase DBA
+
+Blockers
+- Azure Account has been deleted.
+- Requested for a new Azure Account
+
+Use Case/Business Knowledge acquired
+- Dataset Generation.
+- Azure SQL Database.
