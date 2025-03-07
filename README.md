@@ -1364,7 +1364,7 @@ Use Case/Business Knowledge acquired
 - JAM session
 - Azure SQL Database.
 
-### Day-3 - Mar 05th, 2025 - Wednesday. 
+### Day-4 - Mar 06th, 2025 - Thursday. 
 What did I achieve today
 - Worked on Schema Correction in Healthcare domain
 - Created logic to insert data into the database.
@@ -1384,3 +1384,24 @@ Blockers
 Use Case/Business Knowledge acquired
 - Dataset Generation.
 - Azure SQL Database.
+
+### Day-5 - Mar 07th, 2025 - Friday. 
+What did I achieve today
+- Created tracker sheet for learning SQL and PL/SQL, Python
+- Worked on knowing about pricing models in Azure SQL Database.
+- Tried connecting to Azure SQL Database using Power shell.
+- Learning about PITR and LTR
+- Know about Authentication Methods: SQL Authentication vs. Azure AD Authentication
+- Connected and created Azure student account to practice Azure SQL DB DBA
+  
+What am I planning to achieve tomorrow
+- Start working on SQL and Python Tasks.
+- Complete Authentication Methods: SQL Authentication vs. Azure AD Authentication
+- Learn about Azure SQL DB connection using Power shell
+
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Azure SQL Database DBA.
+- SQL, PL/SQL and Python
