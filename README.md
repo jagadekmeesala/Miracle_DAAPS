@@ -1405,3 +1405,26 @@ Blockers
 Use Case/Business Knowledge acquired
 - Azure SQL Database DBA.
 - SQL, PL/SQL and Python
+
+
+
+## Week-16 / 41
+ 
+### Day-1 - Mar 10th, 2025 - Monday. 
+What did I achieve today
+- Restored a deleted database.
+- Learnt about pricing tires and storage models.
+- Connected to Azure SQL DB using SSMS, Azure Data Studio, Power shell.
+- Learnt about Auditing and threat detection.
+- Performed failover groups
+
+What am I planning to achieve tomorrow
+- Do LTR and PITR
+- Perform Bacpac file exporting
+- Exporting files.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Azure SQL Database.
