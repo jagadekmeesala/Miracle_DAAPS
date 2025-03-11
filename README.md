@@ -1439,6 +1439,8 @@ What am I planning to achieve tomorrow
 - Do LTR and PITR
 - Perform Bacpac file exporting
 - Exporting files.
+- DDM
+- 
 
 Blockers
 - None.
