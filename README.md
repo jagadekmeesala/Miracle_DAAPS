@@ -1428,3 +1428,20 @@ Blockers
 
 Use Case/Business Knowledge acquired
 - Azure SQL Database.
+
+### Day-2 - Mar 11th, 2025 - Tuesday. 
+What did I achieve today
+- Connecting Azure SQL DB to SSMS using Microsoft Entra ID.
+- Security Basics in Azure SQL Database
+- 
+
+What am I planning to achieve tomorrow
+- Do LTR and PITR
+- Perform Bacpac file exporting
+- Exporting files.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Azure SQL Database.
