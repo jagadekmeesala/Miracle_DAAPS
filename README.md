@@ -1431,16 +1431,17 @@ Use Case/Business Knowledge acquired
 
 ### Day-2 - Mar 11th, 2025 - Tuesday. 
 What did I achieve today
-- Connecting Azure SQL DB to SSMS using Microsoft Entra ID.
-- Security Basics in Azure SQL Database
-- 
+- Connected Azure SQL DB to SSMS using Microsoft Entra ID.
+- Learnt Security Basics in Azure SQL Database
+- Worked on performance tuning in Azure SQL DB
+- Performed monitoring query optimisation.
+- Worked on intelligent automation.
+- Learnt Dynamic data masking at server level
 
 What am I planning to achieve tomorrow
-- Do LTR and PITR
-- Perform Bacpac file exporting
-- Exporting files.
-- DDM
-- 
+- Learn about Long term recovery and Point in time recovery.
+- Learn about Transparent data encryption (TDE) at DB level.
+- Work on Alerts and Metrics in Azure SQL Database
 
 Blockers
 - None.
