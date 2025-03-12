@@ -1448,3 +1448,23 @@ Blockers
 
 Use Case/Business Knowledge acquired
 - Azure SQL Database.
+
+### Day-2 - Mar 12th, 2025 - Wednesday. 
+What did I achieve today
+- Worked on Azure Alerts and sent a mail notification to myself on Memory space usage.
+- Learnt about Transparent data encryption (TDE)
+- Learnt about Advanced Security Features:Always Encrypted
+- Did documentation for Azure SQL Database DBA.
+- 
+
+What am I planning to achieve tomorrow
+- Work on Runbooks using Azure Automation resource.
+- Learn about Long term recovery and Point in time recovery.
+- 
+- 
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Azure SQL Database.
