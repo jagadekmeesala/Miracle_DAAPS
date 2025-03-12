@@ -1453,15 +1453,16 @@ Use Case/Business Knowledge acquired
 What did I achieve today
 - Worked on Azure Alerts and sent a mail notification to myself on Memory space usage.
 - Learnt about Transparent data encryption (TDE)
-- Learnt about Advanced Security Features:Always Encrypted
+- Learnt about Advanced Security Features:Always Encrypted.
+- Completed query tuning and identified slow running queries.
 - Did documentation for Azure SQL Database DBA.
-- 
+- Learn about Query Performance Tuning: Statistics & Cost-Based Optimization.
 
 What am I planning to achieve tomorrow
 - Work on Runbooks using Azure Automation resource.
+- Learnt about High Availability & Business Continuity.
 - Learn about Long term recovery and Point in time recovery.
-- 
-- 
+- Learn about Zone-Redundant vs. Geo-Redundant Deployments.
 
 Blockers
 - None.
