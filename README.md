@@ -1491,20 +1491,17 @@ Blockers
 Use Case/Business Knowledge acquired
 - Azure SQL Database.
 
-### Day-4 - Mar 14th, 2025 - Frday. 
+### Day-5 - Mar 14th, 2025 - Frday. 
 What did I achieve today
-- Discussed with Prudhvi about Auditing.
-- Learnt about the requirements of the project.
-- Discussed about Elastic pool vs Single Database.
-- Learnt about Zone redundant and Geo redundant deployments
-- Learnt about Replicas.
-- Worked on Execution plans analysis
+- Learnt about auditing and logs viewing.
+- Worked on audit logs using log analytics and event hub.
+- Worked on Geo-replication.
+- Learnt about Monitoring Database Performance practically.
 
 What am I planning to achieve tomorrow
-- Learn about runbooks.
-- Work on knowing about types of automations for Azure SQL DB
-- Learn about Azure SQL Database vs Managed Instance vs Virtual Machine.
-- Learn about Audit logs.
+- Work on Azure Policy & Role-Based Access Control (RBAC)
+- Perform runbooks for automation.
+- Learn about using Log Analytics & Azure Monitor
 
 Blockers
 - None.
