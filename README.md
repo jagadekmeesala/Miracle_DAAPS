@@ -1449,7 +1449,7 @@ Blockers
 Use Case/Business Knowledge acquired
 - Azure SQL Database.
 
-### Day-2 - Mar 12th, 2025 - Wednesday. 
+### Day-3 - Mar 13th, 2025 - Wednesday. 
 What did I achieve today
 - Worked on Azure Alerts and sent a mail notification to myself on Memory space usage.
 - Learnt about Transparent data encryption (TDE)
@@ -1463,6 +1463,27 @@ What am I planning to achieve tomorrow
 - Learnt about High Availability & Business Continuity.
 - Learn about Long term recovery and Point in time recovery.
 - Learn about Zone-Redundant vs. Geo-Redundant Deployments.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Azure SQL Database.
+
+### Day-4 - Mar 14th, 2025 - Thursday. 
+What did I achieve today
+- Discussed with Prudhvi about Auditing.
+- Learnt about the requirements of the project.
+- Discussed about Elastic pool vs Single Database.
+- Learnt about Zone redundant and Geo redundant deployments
+- Learnt about Replicas.
+- Worked on Execution plans analysis
+
+What am I planning to achieve tomorrow
+- Learn about runbooks.
+- Work on knowing about types of automations for Azure SQL DB
+- Learn about Azure SQL Database vs Managed Instance vs Virtual Machine.
+- Learn about Audit logs.
 
 Blockers
 - None.
