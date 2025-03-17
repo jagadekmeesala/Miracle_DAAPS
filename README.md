@@ -1508,3 +1508,28 @@ Blockers
 
 Use Case/Business Knowledge acquired
 - Azure SQL Database.
+
+
+
+## Week-17 / 42
+ 
+### Day-1 - Mar 10th, 2025 - Monday. 
+What did I achieve today
+- Created a managed instance SQL server DB.
+- Learnt about Runbooks
+- Created a PowerShell runbook to fetch data from the DB
+- Scheduled the runbook to perform for every 4 hours
+- Learnt about types of runbooks.
+
+What am I planning to achieve tomorrow
+- Connect MI to SSMS.
+- Learn about Graphical Runbooks.
+- Work on Python based runbooks
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Azure SQL Database.
+- Azure SQL Managed Instance.
+
