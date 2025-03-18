@@ -1533,3 +1533,15 @@ Use Case/Business Knowledge acquired
 - Azure SQL Database.
 - Azure SQL Managed Instance.
 
+### Day-2 - Mar 11th, 2025 - Tuesday. 
+What did I achieve today
+- 
+
+What am I planning to achieve tomorrow
+- 
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Azure SQL Database Administration
