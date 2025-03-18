@@ -1535,10 +1535,14 @@ Use Case/Business Knowledge acquired
 
 ### Day-2 - Mar 11th, 2025 - Tuesday. 
 What did I achieve today
-- 
+- Worked on creating Azure SQL Database and connected to it using SSMS.
+- Created Azure Automation account to automatically fetch database names, their statuses, server details and connection strings.
+- To send a mail I have used Azure Logic Apps
+- Configured Azure Logic apps to send a mail to my work account from my gmail account in CC all my teammates.
 
 What am I planning to achieve tomorrow
-- 
+- Structure the mail from powershell using HTML.
+- Work on condition based powershell script.
 
 Blockers
 - None.
