@@ -1513,7 +1513,7 @@ Use Case/Business Knowledge acquired
 
 ## Week-17 / 42
  
-### Day-1 - Mar 10th, 2025 - Monday. 
+### Day-1 - Mar 17th, 2025 - Monday. 
 What did I achieve today
 - Created a managed instance SQL server DB.
 - Learnt about Runbooks
@@ -1533,7 +1533,7 @@ Use Case/Business Knowledge acquired
 - Azure SQL Database.
 - Azure SQL Managed Instance.
 
-### Day-2 - Mar 11th, 2025 - Tuesday. 
+### Day-2 - Mar 18th, 2025 - Tuesday. 
 What did I achieve today
 - Worked on creating Azure SQL Database and connected to it using SSMS.
 - Created Azure Automation account to automatically fetch database names, their statuses, server details and connection strings.
@@ -1548,4 +1548,28 @@ Blockers
 - None.
 
 Use Case/Business Knowledge acquired
+- Azure SQL Database Administration.
+
+### Day-3 - Mar 19th, 2025 - Wednesday. 
+What did I achieve today
+- For the Runbook that I have created yesterday to send an email of the database's status using logic apps, I have used HTML script to structure in the form of table in the mail body.
+- Created a runbook to create logins, users and assign a role.
+- Designed a Powershell runbook to grant/revoke permissions from users in database.
+- Enabled auditing to monitor and audit logs in an Azure sql server.
+- Created a log analytics account to store the logs that were sent from SQL Server(Database)
+- Created a runbook to managed all the logs from the database.
+- Used Azure Logic apps to send an email of the logs that we get from runbook using HTML in a structured format.
+
+What am I planning to achieve tomorrow
+- Send an email with all logs report in the body of an email in a structured format using HTML.
+- Work on Azure key Vault to perform password rotation.
+- Enforce security policies using Azure Policy (e.g., Firewall, TDE)
+- Enable/Disable Azure AD authentication for SQL Server
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
 - Azure SQL Database Administration
+- Azure Logic Apps
+- Azure Log Analytics
