@@ -1573,3 +1573,26 @@ Use Case/Business Knowledge acquired
 - Azure SQL Database Administration
 - Azure Logic Apps
 - Azure Log Analytics
+
+
+### Day-3 - Mar 19th, 2025 - Wednesday. 
+What did I achieve today
+- Created Azure Key Vault and integrated it with runbook.
+- Learnt about Password rotation in SQL.
+- Used runbook to automate password rotation.
+- Worked on enabling and disabling Microsoft Entra Id for SQL server.
+- Tried to automate the process using runbook.
+- Worked on enforcing security policies in Azure.
+- Created a runbook to enforce Azure security policies.
+
+What am I planning to achieve tomorrow
+- Complete enabling and disabling Microsoft Entra Id for SQL server using runbook.
+- Complete enforcing security policies in Azure using runbooks.
+- Revise few basic level concepts in Azure SQL Database with Eswari and Prudhvi.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Azure SQL Database Administration
+- Azure Key Vaults
