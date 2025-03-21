@@ -1574,8 +1574,7 @@ Use Case/Business Knowledge acquired
 - Azure Logic Apps
 - Azure Log Analytics
 
-
-### Day-3 - Mar 19th, 2025 - Wednesday. 
+### Day-4 - Mar 20th, 2025 - Thursday. 
 What did I achieve today
 - Created Azure Key Vault and integrated it with runbook.
 - Learnt about Password rotation in SQL.
@@ -1596,3 +1595,20 @@ Blockers
 Use Case/Business Knowledge acquired
 - Azure SQL Database Administration
 - Azure Key Vaults
+
+### Day-5 - Mar 21st, 2025 - Friday. 
+What did I achieve today
+- Resolved changes in Creation of users, logins and roles runbook script.
+- Worked on Enforcing security policies directly from Azure.
+- Integrated security policies with runbook and tried to automate it.
+- Enabled and disabled microsoft Entra Id from Azure.
+- Discussed about integrating it with runbook using Automation resource.
+
+What am I planning to achieve tomorrow
+- Resolve the error arised in enforcing security policies.
+
+Blockers
+- None.
+
+Use Case/Business Knowledge acquired
+- Azure SQL Database Administration
