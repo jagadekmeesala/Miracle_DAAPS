@@ -1606,6 +1606,8 @@ What did I achieve today
 
 What am I planning to achieve tomorrow
 - Resolve the error arised in enforcing security policies.
+- Finalise about entra Id automation using runbook
+- Revise remaining basic level concepts
 
 Blockers
 - None.
