@@ -1614,3 +1614,25 @@ Blockers
 
 Use Case/Business Knowledge acquired
 - Azure SQL Database Administration
+
+## Week-18 / 43
+ 
+### Day-1 - Mar 24th, 2025 - Monday. 
+What did I achieve today
+- Learnt about performance intelligence in Azure.
+- Learnt about Performance Overview, Performance Recommendations, Query performance insights, Automatic Tuning in Azure SQL Database.
+- Researched about the requirement to create a runbook for the same.
+- Started working on sending alert mail for slow queries
+- Documented my learnings and attached it to the status mail.
+- Started working on index rebuild and reorganization using runbooks
+
+
+What am I planning to achieve tomorrow
+- Sending alert for slow performing queries using runbooks
+- Index rebuild and reorganization using runbooks.
+
+Blockers
+- Azure account has been blocked by the administrator
+
+Use Case/Business Knowledge acquired
+- Azure SQL Database.
