@@ -1636,3 +1636,22 @@ Blockers
 
 Use Case/Business Knowledge acquired
 - Azure SQL Database.
+
+### Day-2 - Mar 25th, 2025 - Tuesday. 
+What did I achieve today
+- Worked on sending alerts for Long running queries.
+- Created a run book for index rebuild and reorganization.
+-  Had disuccsion with the team regarding upcoming project.
+-  Got to know about the requirements of the project.
+-  Created a detailed plan to learn powershell
+
+What am I planning to achieve tomorrow
+- Start working on Powershell tasks.
+- Complete basics of powershell from youtube.
+- Learn about different types of runbook.
+
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Azure SQL Database.
