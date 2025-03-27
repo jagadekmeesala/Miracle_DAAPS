@@ -1677,7 +1677,7 @@ Use Case/Business Knowledge acquired
 - Powershell
 - Networking in Azure.
 
-### Day-3 - Mar 26th, 2025 - Wednesday. 
+### Day-4 - Mar 27th, 2025 - Thursday. 
 What did I achieve today
 - Completed logic building in Powershell
 - Worked on input, output cmdlets like read-host, write-host and so on.
