@@ -1655,3 +1655,24 @@ Blockers
 
 Use Case/Business Knowledge acquired
 - Azure SQL Database.
+
+### Day-3 - Mar 26th, 2025 - Wednesday. 
+What did I achieve today
+- Learnt about what, why and how of powershell.
+- Learnt about get-command, get-help, get-member cmdlets in Powershell.
+- Installed and executed powershell in vscode.
+- Learning about Logic building in powershell.
+- Created a sheet to learn about networking concepts in Azure
+
+What am I planning to achieve tomorrow
+- Complete logic building in Powershell.
+- Work on error handling in powershell.
+- Start learning networking concepts in Azure.
+
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Azure SQL Database.
+- Powershell
+- Networking in Azure.
