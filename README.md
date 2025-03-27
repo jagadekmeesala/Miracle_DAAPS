@@ -1676,3 +1676,26 @@ Use Case/Business Knowledge acquired
 - Azure SQL Database.
 - Powershell
 - Networking in Azure.
+
+### Day-3 - Mar 26th, 2025 - Wednesday. 
+What did I achieve today
+- Completed logic building in Powershell
+- Worked on input, output cmdlets like read-host, write-host and so on.
+- Completed tasks for each of the powershell concept completed.
+- Documented all my learnings of concepts in Powershell.
+- Created Azure SQL Server and database and researched about firewall rules and basics needed to connect to SSMS.
+- Performed Microsoft Entra Id Authentiation for Azure SQL server DB
+
+What am I planning to achieve tomorrow
+- Start learning about Powershell for Cloud.
+- Complete error handling in Powershell
+- Understand the networking concepts needed for powershell.
+- Analyse the most common errors to be occured in Azure SQL Database.
+
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Azure SQL Database.
+- Powershell
+- Networking in Azure.
