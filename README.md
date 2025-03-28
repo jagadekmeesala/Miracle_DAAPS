@@ -1699,3 +1699,26 @@ Use Case/Business Knowledge acquired
 - Azure SQL Database.
 - Powershell
 - Networking in Azure.
+
+### Day-5 - Mar 28th, 2025 - Friday. 
+What did I achieve today
+- Completed Error handling and exceptions in powershell
+- Documented about error handling in powershell.
+- Completed learning powershell variables
+- Completed powershell input and output cmdlets.
+- Started reviewing cost estimation for Azure resources that will be utilized for Azure SQL.
+- Started working on Azure monitor - customized alerts.
+
+What am I planning to achieve tomorrow
+- Start learning about Powershell remoting.
+- Complete Powershell tasks that were assigned.
+- Review cost estimations for Azure resources.
+- Complete concept of Azure monitor customized alerts.
+  
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Azure SQL Database.
+- Powershell
+- Networking in Azure.
