@@ -1722,3 +1722,28 @@ Use Case/Business Knowledge acquired
 - Azure SQL Database.
 - Powershell
 - Networking in Azure.
+
+
+## Week-19 / 44
+ 
+### Day-1 - Mar 31st, 2025 - Monday. 
+What did I achieve today
+- Started working on Powershell remoting.
+- Learnt about Powershell Scripts.
+- Started researching about Networking in Azure.
+- Got intro to Vnet and Subnets
+- Researched about Cost Optimization.
+- Learnt about Backup redundancy in Azure SQL Database.
+
+What am I planning to achieve tomorrow
+- Run Powershell as admin and access remoting
+- Learn in deep about Vnet and subnet
+
+Blockers
+- Issue with admin account to work on Powershell.
+- Intimated to IT team and will be resolved.
+
+Use Case/Business Knowledge acquired
+- Azure SQL Database.
+- Powershell.
+- Networking in Azure.
