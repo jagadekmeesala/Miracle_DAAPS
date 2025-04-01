@@ -1747,3 +1747,24 @@ Use Case/Business Knowledge acquired
 - Azure SQL Database.
 - Powershell.
 - Networking in Azure.
+
+### Day-2 - Apr 01st, 2025 - Tuesday. 
+What did I achieve today
+- Learnt about Network Security Groups in Azure Networking.
+- Got introduction about VNets and Subnets.
+- Learnt about Service and private endpoints and various ways to connect Azure SQL DB
+- Worked learning about usage of vnets and subnets
+- Learnt about why we use NSGs
+
+What am I planning to achieve tomorrow
+- Work on inbound and outbound rules in Azure Networking.
+- Revise basic concepts of Azure SQL Database.
+
+Blockers
+- Issue with admin account to work on Powershell.
+- Intimated to IT team and will be resolved.
+
+Use Case/Business Knowledge acquired
+- Azure SQL Database.
+- Powershell.
+- Networking in Azure.
