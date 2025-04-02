@@ -1768,3 +1768,26 @@ Use Case/Business Knowledge acquired
 - Azure SQL Database.
 - Powershell.
 - Networking in Azure.
+
+### Day-3 - Apr 02nd, 2025 - Wednesday. 
+What did I achieve today
+- Created a Network Security group.
+- Learn about the architecture of a NSG.
+- Learnt about how and why we use Inbound and Outbound rules in Azure
+- Got basic info about Application Security group.
+- Resolved the issue of Admin account for my system.
+- Researched about Route Tables and their use in Azure.
+
+What am I planning to achieve tomorrow
+- Complete powershell remoting and scripting.
+- Work on Azure Backup redundancy
+- Complete Azure Monitor customised alerts.
+- Revise all concepts in Azure SQL Database. 
+  
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Azure SQL Database.
+- Powershell.
+- Networking in Azure.
