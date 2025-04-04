@@ -1791,3 +1791,43 @@ Use Case/Business Knowledge acquired
 - Azure SQL Database.
 - Powershell.
 - Networking in Azure.
+
+### Day-4 - Apr 03rd, 2025 - Thursday. 
+What did I achieve today
+- Worked on Powershell remoting
+- Learnt about Scripts in Powershell
+- Created a script to find incorrect files or folders from the directory.
+- Completed 2 tasks from task list.
+
+What am I planning to achieve tomorrow
+- Assess Oracle to SQL server migration.
+
+- Researched about cloud to cloud and on prem to on prem migration
+  
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Azure SQL Database.
+- Powershell.
+- Networking in Azure.
+
+### Day-5 - Apr 04th, 2025 - Friday. 
+What did I achieve today
+- Worked on learning about datatypes in oracle sql and sql server.
+- Learnt creating azure sql for oracle.
+- Working on SSMA as migration assistant.
+- Tried to use powershell and send mail notifications.
+
+What am I planning to achieve tomorrow
+- Researched about cloud to cloud and on prem to on prem migration.
+- Install SSMA and start working hands on
+  
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Azure SQL Database.
+- SQL Server
+- Oracle SQL
+- Azure SQL
