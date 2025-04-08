@@ -1840,17 +1840,17 @@ What did I achieve today
 - Installed Oracle SQL Server for my system.
 - Changed the password for the admin account.
 - Learning about RMAN in Oracle SQL Developer.
-- 
+- Learnt about basics of Oracle SQL
+- Learnt about tablespaces, backups, storages and their respective types.
+- Got KT about how to perform backup using rman
 
 What am I planning to achieve tomorrow
-- Run Powershell as admin and access remoting
-- Learn in deep about Vnet and subnet
+- Understand oracle SQL architecture.
+- Steps to perform a backup using cmd.
+- Permissions or pre-requisites for performing backup
 
 Blockers
-- Issue with admin account to work on Powershell.
-- Intimated to IT team and will be resolved.
+- None
 
 Use Case/Business Knowledge acquired
-- Azure SQL Database.
-- Powershell.
-- Networking in Azure.
+- Oracle SQL.
