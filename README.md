@@ -1855,17 +1855,18 @@ Blockers
 Use Case/Business Knowledge acquired
 - Oracle SQL.
 
-### Day-1 - Apr 07th, 2025 - Monday. 
+### Day-2 - Apr 08th, 2025 - Tuesday. 
 What did I achieve today
 - Learnt about architecture of Oracle SQL.
 - learnt about instance in Oracle SQL.
 - Learnt about memory management in Oracle SQL.
-- 
+- Learnt about the flow of data in Oracle.
+- Tried to login using a user
 
 What am I planning to achieve tomorrow
-- Understand oracle SQL architecture.
-- Steps to perform a backup using cmd.
-- Permissions or pre-requisites for performing backup
+- Complete logging in to a user.
+- Completely learn about Oracle Server, instance and Database.
+- Do backups for Oracle SQL. 
 
 Blockers
 - None
