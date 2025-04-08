@@ -1834,7 +1834,7 @@ Use Case/Business Knowledge acquired
 
 
 ## Week-20 / 45
- 
+
 ### Day-1 - Apr 07th, 2025 - Monday. 
 What did I achieve today
 - Installed Oracle SQL Server for my system.
