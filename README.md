@@ -1831,3 +1831,26 @@ Use Case/Business Knowledge acquired
 - SQL Server
 - Oracle SQL
 - Azure SQL
+
+
+## Week-20 / 45
+ 
+### Day-1 - Apr 07th, 2025 - Monday. 
+What did I achieve today
+- Installed Oracle SQL Server for my system.
+- Changed the password for the admin account.
+- Learning about RMAN in Oracle SQL Developer.
+- 
+
+What am I planning to achieve tomorrow
+- Run Powershell as admin and access remoting
+- Learn in deep about Vnet and subnet
+
+Blockers
+- Issue with admin account to work on Powershell.
+- Intimated to IT team and will be resolved.
+
+Use Case/Business Knowledge acquired
+- Azure SQL Database.
+- Powershell.
+- Networking in Azure.
