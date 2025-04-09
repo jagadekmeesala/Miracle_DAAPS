@@ -1873,3 +1873,21 @@ Blockers
 
 Use Case/Business Knowledge acquired
 - Oracle SQL.
+
+### Day-3 - Apr 09th, 2025 - Wednesday. 
+What did I achieve today
+- Logged into Oracle SQL and got access to DMaaS data.
+- Installed SSMA for Oracle.
+- Tried to migrate data from Oracle to SQL Server on prem.
+- Converted schema directly from Oracle SQL to SQL Server.
+
+What am I planning to achieve tomorrow
+- Migrate data and resolve errors.
+- Try migrating demo database with less columns and data to verify the process.
+- Log errors if any, encountered in the process. 
+
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Oracle SQL.
