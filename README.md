@@ -1891,3 +1891,23 @@ Blockers
 
 Use Case/Business Knowledge acquired
 - Oracle SQL.
+
+### Day-4 - Apr 10th, 2025 - Thursday. 
+What did I achieve today
+- Worked on Migration of data.
+- Converted schema from oracle to SQL server.
+- Connected and configured SQL server and Oracle SQL.
+- Created a user in SQL Server.
+- Added Adventure Works database.
+- Given Oracle db access to trainees.
+
+What am I planning to achieve tomorrow
+- Migrate data from Oracle to SQL server.
+- Troubleshoot adventure workds database if needed.
+- Work on migration of views, stored procedures and other data too.
+
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Oracle SQL.
