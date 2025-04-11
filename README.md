@@ -1911,3 +1911,20 @@ Blockers
 
 Use Case/Business Knowledge acquired
 - Oracle SQL.
+
+### Day-5 - Apr 11th, 2025 - Friday. 
+What did I achieve today
+- Inserted entire data of Adventure Works to Oracle.
+- Attended internal team call to discuss about project.
+- Learnt about schema convert opetion in SSMA for Oracle.
+- Learnt about Sync with DB opetion in SSMA for Oracle.
+
+What am I planning to achieve tomorrow
+- Correct DMaaS data for Oracle.
+- Work on environment migration.
+
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Oracle SQL.
