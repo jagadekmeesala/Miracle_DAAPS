@@ -1928,3 +1928,19 @@ Blockers
 
 Use Case/Business Knowledge acquired
 - Oracle SQL.
+
+
+## Week-21 / 46
+
+### Day-1 - Apr 14th, 2025 - Monday. 
+What did I achieve today
+- 
+
+What am I planning to achieve tomorrow
+- 
+
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Oracle SQL.
