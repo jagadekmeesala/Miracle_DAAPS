@@ -1934,10 +1934,16 @@ Use Case/Business Knowledge acquired
 
 ### Day-1 - Apr 14th, 2025 - Monday. 
 What did I achieve today
-- 
+- Configured Oracle Server by changing listener and tns.
+- Edited connection details for Oracle server.
+- Resolved errors faced while connecting to server.
+- Converted schema from oracle to sql server.
+- Working on migrating data.
 
 What am I planning to achieve tomorrow
-- 
+- Work on migrating data from Oracle server.
+- Troubleshoot the errors and work on migration.
+- Start working on migration to Azure SQL DB
 
 Blockers
 - None
