@@ -1972,10 +1972,13 @@ Use Case/Business Knowledge acquired
 ### Day-3 - Apr 17th, 2025 - Wednesday. 
 What did I achieve today
 - Created tasks and finalized concepts for Python training.
-- 
+- Worked on documentation for Oracle to SQL server migration.
+- Restoring a database in Oracle Server for migration to Azure SQL.
   
 What am I planning to achieve tomorrow
-- 
+- Complete documentation for the PoC
+- Restore or create a database with working condition for testing the PoC
+- Identify the probable errors for the migration and list them in documentation.
   
 Blockers
 - None
