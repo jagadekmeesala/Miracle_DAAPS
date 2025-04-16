@@ -1975,12 +1975,12 @@ What did I achieve today
 - 
   
 What am I planning to achieve tomorrow
-- Finalize python concepts and tasks for training.
-- Work on Azure SQL migration.
-- Migrate entire DMAAS db from oracle to sql server environment.
+- 
   
 Blockers
 - None
 
 Use Case/Business Knowledge acquired
 - Oracle SQL.
+- SQL Server.
+- SSMA for Oracle.
