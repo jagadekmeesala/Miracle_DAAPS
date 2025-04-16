@@ -1950,3 +1950,21 @@ Blockers
 
 Use Case/Business Knowledge acquired
 - Oracle SQL.
+
+### Day-2 - Apr 15th, 2025 - Tuesday. 
+What did I achieve today
+- Created Azure SQL Database for migration of data.
+- Established connection with Azure SQL to Migration Assistant.
+- Converted Schema to Azure SQL Database for Migration.
+- Worked on Python concepts finalizing
+  
+What am I planning to achieve tomorrow
+- Finalize python concepts and tasks for training.
+- Work on Azure SQL migration.
+- Migrate entire DMAAS db from oracle to sql server environment.\
+  
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Oracle SQL.
