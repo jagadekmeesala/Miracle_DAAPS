@@ -1969,7 +1969,7 @@ Blockers
 Use Case/Business Knowledge acquired
 - Oracle SQL.
 
-### Day-3 - Apr 17th, 2025 - Wednesday. 
+### Day-3 - Apr 16th, 2025 - Wednesday. 
 What did I achieve today
 - Created tasks and finalized concepts for Python training.
 - Worked on documentation for Oracle to SQL server migration.
@@ -1979,6 +1979,24 @@ What am I planning to achieve tomorrow
 - Complete documentation for the PoC
 - Restore or create a database with working condition for testing the PoC
 - Identify the probable errors for the migration and list them in documentation.
+  
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Oracle SQL.
+- SQL Server.
+- SSMA for Oracle.
+
+### Day-4 - Apr 17th, 2025 - Thursday. 
+What did I achieve today
+- Created documentation for Oracle to SQL Server Migration.
+- Worked on connecting to Azure SQL database.
+- Restored a database in Oracle Server for migration."
+
+What am I planning to achieve tomorrow
+- Update my task in the call.
+- Work on refining documentation for better understanding."
   
 Blockers
 - None
