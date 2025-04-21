@@ -2005,3 +2005,27 @@ Use Case/Business Knowledge acquired
 - Oracle SQL.
 - SQL Server.
 - SSMA for Oracle.
+
+
+## Week-22 / 47
+
+### Day-1 - Apr 21st, 2025 - Monday. 
+What did I achieve today
+- Working on restoring a database in Oracle SQL.
+- Configured the listener and tns for the new IP in Oracle Server.
+- Working on SSMA for Oracle for migration.
+- Learnt about QUALIFY in SQL.
+
+What am I planning to achieve tomorrow
+- Complete documentation for Oracle to SQL server migration.
+- Restore a database in Oracle and put in running status.
+- Learn some new concepts in SQL and PL/SQL.
+
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Oracle SQL.
+- SQL Server.
+- SSMA for Oracle.
+- Azure SQL.
