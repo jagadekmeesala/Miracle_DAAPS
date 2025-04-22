@@ -2029,3 +2029,23 @@ Use Case/Business Knowledge acquired
 - SQL Server.
 - SSMA for Oracle.
 - Azure SQL.
+
+### Day-2 - Apr 22nd, 2025 - Tuesday. 
+What did I achieve today
+- Completed documentation for Oracle to SQL server migration and sent for verification.
+- Worked on setting up employee database.
+- Worked on setting up a demo database in oracle database.
+
+What am I planning to achieve tomorrow
+- Migrate entire environment using SSMA for Oracle.
+- Reverify any corrections in documentation.
+
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Oracle SQL.
+- SQL Server.
+- SSMA for Oracle.
+- Azure SQL.
+- Documentation
