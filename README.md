@@ -2049,3 +2049,65 @@ Use Case/Business Knowledge acquired
 - SSMA for Oracle.
 - Azure SQL.
 - Documentation
+
+### Day-3 - Apr 23rd, 2025 - Wednesday. 
+What did I achieve today
+- Completed documentation for Oracle to SQL server migration and sent for verification.
+- Worked on setting up employee database. 
+- Worked on setting up a demo database in oracle database.
+
+What am I planning to achieve tomorrow
+- Migrate entire environment using SSMA for Oracle.
+- Reverify any corrections in documentation.
+
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Oracle SQL.
+- SQL Server.
+- SSMA for Oracle.
+- Azure SQL.
+- Documentation
+
+### Day-4 - Apr 24th, 2025 - Thursday. 
+What did I achieve today
+- Completed documentation for Oracle to SQL server migration and sent for verification.
+- Worked on setting up employee database. 
+- Worked on setting up a demo database in oracle database.
+
+What am I planning to achieve tomorrow
+- Migrate entire environment using SSMA for Oracle.
+- Reverify any corrections in documentation.
+
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Oracle SQL.
+- SQL Server.
+- SSMA for Oracle.
+- Azure SQL.
+- Documentation
+
+### Day-5 - Apr 25th, 2025 - Friday. 
+What did I achieve today
+- Started documenting steps to follow for Oracle to SQL Server migration.
+- Work on pre-migration steps needed for Oracle to SQL Server migration using Python and SQL.
+- Write SQL Script to fetch details of SQL and PL/SQL objects.
+- Prepare milestone sheet with timelines for migration
+
+What am I planning to achieve tomorrow
+- Work on timelines for Oracle to SQL Server Migration.
+- Document step by step process for Oracle to SQL Server migration.
+- Work on Pre-migration process for Oracle to SQL Server migration
+
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Oracle SQL.
+- SQL Server.
+- SSMA for Oracle.
+- Azure SQL.
+- Documentation
