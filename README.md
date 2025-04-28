@@ -2111,3 +2111,20 @@ Use Case/Business Knowledge acquired
 - SSMA for Oracle.
 - Azure SQL.
 - Documentation
+
+## Week-23 / 48
+
+### Day-1 - Apr 28th, 2025 - Monday. 
+What did I achieve today
+- Created a timeline sheet for Oracle to SQL Server Migration.
+- Created Azure SQL Database for data migration.
+- Working on migration from Oracle SQL to Azure SQL.
+- start documentation for the same.
+
+What am I planning to achieve tomorrow
+- Complete data migration from Oracle SQL to Azure SQL.
+- Work on documentation for data migration.
+- Verify and troubleshoot errors in the process.
+
+Blockers
+- None
