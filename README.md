@@ -2128,3 +2128,10 @@ What am I planning to achieve tomorrow
 
 Blockers
 - None
+
+Use Case/Business Knowledge acquired
+- Oracle SQL.
+- SQL Server.
+- SSMA for Oracle.
+- Azure SQL.
+- Documentation
