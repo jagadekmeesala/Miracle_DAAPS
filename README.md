@@ -2135,3 +2135,25 @@ Use Case/Business Knowledge acquired
 - SSMA for Oracle.
 - Azure SQL.
 - Documentation
+
+### Day-2 - Apr 29th, 2025 - Tuesday. 
+What did I achieve today
+- Whitelisted my IP in Azure SQL Database for data migration.
+- Submitted Oracle SQL to SQL Server documentation for review.
+- Working on documentation for Oracle SQL to Azure SQL.
+- Migrate Oracle SQL tables into Azure SQL.
+
+What am I planning to achieve tomorrow
+- Complete Oracle SQL to Azure SQL Migration.
+- Work on timeline finalizing for milestones in migration PoC.
+- Complete documentation for Data migration to Cloud PoC.
+
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Oracle SQL.
+- SQL Server.
+- SSMA for Oracle.
+- Azure SQL.
+- Documentation
