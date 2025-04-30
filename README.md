@@ -2157,3 +2157,23 @@ Use Case/Business Knowledge acquired
 - SSMA for Oracle.
 - Azure SQL.
 - Documentation
+
+### Day-3 - Apr 30th, 2025 - Tuesday. 
+What did I achieve today
+- Started doing documentation for Oracle to Azure Migration.
+- Completed Oracle SQL to Azure SQL Migration.
+- Edited Oracle to SQL Server documentation.
+
+What am I planning to achieve tomorrow
+- Complete documentation for Data migration to Cloud PoC.
+- Start working on Python script for overall validation.
+
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Oracle SQL.
+- SQL Server.
+- SSMA for Oracle.
+- Azure SQL.
+- Documentation
