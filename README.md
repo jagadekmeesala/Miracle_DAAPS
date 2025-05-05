@@ -2158,7 +2158,7 @@ Use Case/Business Knowledge acquired
 - Azure SQL.
 - Documentation
 
-### Day-3 - Apr 30th, 2025 - Tuesday. 
+### Day-3 - Apr 30th, 2025 - Wednesday. 
 What did I achieve today
 - Started doing documentation for Oracle to Azure Migration.
 - Completed Oracle SQL to Azure SQL Migration.
@@ -2167,6 +2167,66 @@ What did I achieve today
 What am I planning to achieve tomorrow
 - Complete documentation for Data migration to Cloud PoC.
 - Start working on Python script for overall validation.
+
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Oracle SQL.
+- SQL Server.
+- SSMA for Oracle.
+- Azure SQL.
+- Documentation
+
+### Day-4 - May 01st, 2025 - Thursday. 
+What did I achieve today
+- Working on individual Python scripts for report generation.
+- Submitted documentation for Azure SQL migration.
+- Worked on migration from Oracle SQL to Azure SQL.
+
+What am I planning to achieve tomorrow
+- Work on Python script for combined report.
+- Find a way to send report to mail directly.
+
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Oracle SQL.
+- SQL Server.
+- SSMA for Oracle.
+- Azure SQL.
+- Documentation
+
+### Day-5 - May 02nd, 2025 - Friday. 
+What did I achieve today
+- Created and analyzed SQL script for analysis of Oracle SQL Server.
+- Worked on Pre-Migration Python Script.
+- Created a sheet for reporting Pre-Migration analysis."
+
+What am I planning to achieve tomorrow
+- Complete SQL Script for pre-migration.
+- Made requested changed that were suggested after verification."
+
+Blockers
+- None
+
+Use Case/Business Knowledge acquired
+- Oracle SQL.
+- SQL Server.
+- SSMA for Oracle.
+- Azure SQL.
+- Documentation
+
+
+## Week-24 / 49
+
+### Day-1 - Apr 28th, 2025 - Monday. 
+What did I achieve today
+
+
+What am I planning to achieve tomorrow
+
 
 Blockers
 - None
