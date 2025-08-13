@@ -2237,3 +2237,30 @@ Use Case/Business Knowledge acquired
 - SSMA for Oracle.
 - Azure SQL.
 - Documentation
+
+## Week of 11th August, 2025 - Monday
+
+### Day -1 - August 11th, 2025 - Monday.
+Leave
+
+### Day -2 - August 12th, 2025 - Tuesday.
+
+Working  with - Harish
+POC Names - RLS Implementation in Looker Studio.
+Technologies and Tools used - Big query, Looker Studio
+Woking on:
+- RLS implementation in Looker Studio for Globus Med data.
+- Moved data from Globus Med Project to MSS Data Engineer sandbox project in Big query using Cloud Shell
+
+### Day -3 - August 13th, 2025 - Wednesday.
+
+Technologies and Tools Used - Python, Machine Learning, Power BI, SQL.
+Training given - SQL for Will
+POC Names - Dataset Generation, 10 ML Usecases
+Working  with - Harish
+Woking on:
+- Filled report intake form sent by Harish via mail taking reference as the mail he forwarded from Rakesh Gundala.
+- Sent the report intake form to Harish for verification.
+- Researching about the web scraping and using of API for pulling data for dataset generation.
+- Attended a call for ML model presentation by Harish and Bhargav.
+- Taken SQL Training for Will on SQL Joins, Sub Queries and Views, MViews.
