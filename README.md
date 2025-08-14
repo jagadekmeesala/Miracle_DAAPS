@@ -2264,3 +2264,14 @@ Woking on:
 - Researching about the web scraping and using of API for pulling data for dataset generation.
 - Attended a call for ML model presentation by Harish and Bhargav.
 - Taken SQL Training for Will on SQL Joins, Sub Queries and Views, MViews.
+
+### Day -4 - August 14th, 2025 - Thursday.
+
+Technologies and Tools Used - Python, Web Scraping APIs, Machine Learning, SQL.
+Training given - SQL for Will
+POC Names - Dataset Generation, 10 ML Usecases
+Working  with - Harish, Will Viruet.
+Woking on:
+- Training Will on Indexing, Window Functions and Query optmization.
+- Verifying the tasks document shared by Will.
+- Researching about web scraping APIs to get Manufacturing domain data.
