@@ -2257,7 +2257,7 @@ Woking on:
 Technologies and Tools Used - Python, Machine Learning, Power BI, SQL.
 Training given - SQL for Will
 POC Names - Dataset Generation, 10 ML Usecases
-Working  with - Harish
+Working  with - Harish, Will Viruet.
 Woking on:
 - Filled report intake form sent by Harish via mail taking reference as the mail he forwarded from Rakesh Gundala.
 - Sent the report intake form to Harish for verification.
